@@ -12,7 +12,7 @@
 "https://i.pinimg.com/originals/48/5b/3e/485b3e844a7adf4a839bfe330c8b99a4.jpg",
 "https://i.pinimg.com/originals/85/f2/97/85f297ec65bd1bfb519925a867501a70.jpg",
 "https://i.pinimg.com/originals/9f/92/52/9f92527eeac5921a126b66181788e1ad.png',
-"https://i.pinimg.com/originals/82/9d/03/829d03333d8f1cd96fef87b763bff3d8.png',"
+"https://i.pinimg.com/originals/82/9d/03/829d03333d8f1cd96fef87b763bff3d8.png",
 "https://i.pinimg.com/originals/41/2b/3d/412b3dba75013d92e5694bc693f9d085.jpg",
 "https://i.pinimg.com/originals/da/3b/88/da3b8857cc5dea3f4ca51c61b324810a.jpg",
 "https://i.pinimg.com/originals/a6/95/28/a69528eed3c945f2b04d04e6e5d65db9.jpg",
@@ -22,8 +22,8 @@
 "https://i.pinimg.com/originals/7a/42/c2/7a42c2adea7946a3ae5c4e9aa26bcfa3.jpg",
 "https://i.pinimg.com/originals/c1/cd/91/c1cd91181d5015e1a423c6efd53df092.jpg",
 "https://i.pinimg.com/originals/ca/d7/d9/cad7d94d0c19c465e418af192ed3f37b.jpg",
-"https://i.pinimg.com/originals/d8/ac/ac/d8acac056855a79314e4aa26c4944e89.png',
-"https://i.pinimg.com/originals/d2/ed/f5/d2edf5437ac4033939769416f8a2a879.png',"
+"https://i.pinimg.com/originals/d8/ac/ac/d8acac056855a79314e4aa26c4944e89.png",
+"https://i.pinimg.com/originals/d2/ed/f5/d2edf5437ac4033939769416f8a2a879.png",
 "https://i.pinimg.com/originals/13/e9/3b/13e93bce6199b5b8b3dc6cc11c72e2d1.jpg",
 "https://i.pinimg.com/originals/b3/32/04/b33204eb7eec09026878bceedc632fca.jpg",
 "https://i.pinimg.com/originals/55/56/2d/55562d71860bb73acfca4862f34c867e.jpg",
