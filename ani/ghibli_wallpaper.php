@@ -54,7 +54,6 @@
 "https://i.pinimg.com/originals/e8/14/90/e81490f936cbda952ff307387b884ee2.jpg",
 "https://i.pinimg.com/originals/4f/a9/ba/4fa9ba7a77e7f858de480932ff3aaab5.jpg",
 "https://i.pinimg.com/originals/c6/61/35/c6613566b4994bc0ff20ce64cecf6d0a.jpg",
-"https://i.pinimg.com/originals/5f/ce/e5/5fcee519d5c3ec7fe92f1df86daddb87.jpg",
 "https://i.pinimg.com/originals/57/6c/0c/576c0c832720f3d88df8269a71b9a101.jpg",
 "https://i.pinimg.com/originals/3b/8b/39/3b8b39a7f6e53f45debace41be524567.jpg",
 "https://i.pinimg.com/originals/94/26/d0/9426d003fc7c2fea0818e4e43d69c120.jpg",
