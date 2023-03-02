@@ -135,7 +135,7 @@
 "https://i.pinimg.com/originals/63/c8/b3/63c8b3edecff87468d9f7f96035a713a.jpg",
 "https://i.pinimg.com/originals/3a/3b/17/3a3b175c6c5c7b39196cdf1b7da6a311.jpg",
 "https://i.pinimg.com/originals/3b/35/e5/3b35e58c2a32354f28f1f6ff0c5de669.jpg",
-"https://i.pinimg.com/originals/a3/d2/a7/a3d2a777c9e095905f0472915797f6b0.png",
+"https://i.pinimg.com/originals/a3/d2/a7/a3d2a777c9e095905f0472915797f6b0.jpg",
 "https://i.pinimg.com/originals/5b/e3/9b/5be39b458708283c61c112704153a6f7.png",
 "https://i.pinimg.com/originals/94/ec/10/94ec105e99b07432d75e32601dd48803.jpg",
 "https://i.pinimg.com/originals/b1/e0/65/b1e065bde697ae62a941915ec7243dfa.jpg",
