@@ -1204,8 +1204,6 @@
 "https://i.pinimg.com/736x/9e/6c/e7/9e6ce7ad27162ae11b78144acc97d80c.jpg",
 "https://i.pinimg.com/736x/e0/d3/67/e0d367189af4ed1dbedf5f5b20c1369c.jpg",
 "https://i.pinimg.com/736x/f6/47/42/f64742bca14153aec60ce07aa2bf409d.jpg",
-"https://i.pinimg.com/736x/61/bb/e9/61bbe986d1b34364efb5e489fa8f7523.jpg",
-"https://i.pinimg.com/736x/bf/7a/9c/bf7a9c5b085951a94abaf398474a3e5f.jpg",
 "https://i.pinimg.com/736x/94/eb/85/94eb852383e45f2fa0f328094ca97d1d.jpg",
 "https://i.pinimg.com/736x/16/21/b6/1621b6239b2cc25e3a1ec700d1e67918.jpg",
 "https://i.pinimg.com/736x/70/70/07/707007b5824e98dedc534406c4f3ee83.jpg",
