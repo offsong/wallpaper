@@ -20,6 +20,34 @@
     "preview2": "https://i.pinimg.com/474x/87/0c/73/870c73e31f72d97a6b6ca33a5e8e829d.jpg",
     "preview3": "https://i.pinimg.com/474x/44/b6/84/44b6842b34a4326a8ef2c3d735e88c14.jpg"
   },
+     {
+    "name": "Cute",
+    "name_kor": "귀여운 배경화면",
+    "preview1": "https://i.pinimg.com/474x/69/c0/7f/69c07ffdb1631049b5e11d75ea7e32a1.jpg",
+    "preview2": "https://i.pinimg.com/474x/91/f1/57/91f15733925a8bf1de55dd04febab1d3.jpg",
+    "preview3": "https://i.pinimg.com/474x/51/1f/ed/511fed1e96730cd24d433a3c20bd5924.jpg"
+  },
+  {
+    "name": "Fantasy",
+    "name_kor": "판타지",
+    "preview1": "https://i.pinimg.com/474x/a5/3f/8c/a53f8cc1e3d4fe473c15173a0b8bad5b.jpg",
+    "preview2": "https://i.pinimg.com/474x/14/75/cc/1475cc35b36b9df653f36c58c399d8a0.jpg",
+    "preview3": "https://i.pinimg.com/474x/0e/82/17/0e821766d380edb75b6a7ab14cf5271b.jpg"
+  },
+    {
+    "name": "Flower",
+    "name_kor": "봄 꽃",
+    "preview1": "https://i.pinimg.com/474x/cb/ea/1c/cbea1c35acaf214cd2af570e4d09d177.jpg",
+    "preview2": "https://i.pinimg.com/474x/ca/a3/25/caa325c869f084138e5677301e0d83ff.jpg",
+    "preview3": "https://i.pinimg.com/474x/b2/b3/80/b2b380cd6fd36a0cdce6afea3460f423.jpg"
+  },
+      {
+    "name": "Animal",
+    "name_kor": "귀여운 동물",
+    "preview1": "https://i.pinimg.com/736x/82/97/de/8297dee2d3f3e92a18cca6191d35938d.jpg",
+    "preview2": "https://i.pinimg.com/474x/14/7a/ec/147aec9f1bb6c4586b718a0ace9121ca.jpg",
+    "preview3": "https://i.pinimg.com/474x/6a/63/62/6a6362111276e1ab7b15557a1f4c6490.jpg"
+  },
   {
     "name": "Black",
     "name_kor": "검정색 테마",
