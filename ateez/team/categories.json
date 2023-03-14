@@ -1,93 +1,65 @@
 [
   {
-    "name": "Aesthetic",
-    "name_kor": "감성",
+    "name": "ATEEZ",
+    "name_kor": "에이티즈",
     "preview1": "",
     "preview2": "",
     "preview3": ""
   },
   {
-    "name": "Illust",
-    "name_kor": "일러스트",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "HONGJOONG",
+    "name_kor": "홍중",
+    "preview1": "https://i.pinimg.com/474x/10/8a/e4/108ae4f0c18435e45f988e15324847e9.jpg",
+    "preview2": "https://i.pinimg.com/474x/d2/d9/3a/d2d93af5bd7877f9c74e17883942d1fc.jpg",
+    "preview3": "https://i.pinimg.com/474x/f8/86/98/f88698219f68b2366db65e62cdc9124a.jpg"
   },
     {
-    "name": "3D",
-    "name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "SEONGHWA",
+    "name_kor": "성화",
+    "preview1": "https://i.pinimg.com/474x/77/e8/23/77e823b7bc3ac2481241edbdc9ce59d1.jpg",
+    "preview2": "https://i.pinimg.com/474x/d5/89/2d/d5892d29cafb82d07dcf4943ecfdaa25.jpg",
+    "preview3": "https://i.pinimg.com/474x/39/ac/d0/39acd049d7e3e822f9f2f220ee4a232d.jpg"
   },
      {
-    "name": "Cute",
-	"name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "YUNHO",
+    "name_kor": "윤호",
+    "preview1": "https://i.pinimg.com/474x/75/4c/cc/754cccdc7e0d3da9c229eb839684a55d.jpg",
+    "preview2": "https://i.pinimg.com/474x/63/7b/47/637b475f67589cc1094ec969a25f42e2.jpg",
+    "preview3": "https://i.pinimg.com/474x/1a/02/83/1a0283685d635b5d57e6d9d0e6b38d36.jpg"
   },
   {
-    "name": "Fantasy",
-    "name_kor": "판타지",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "YEOSANG",
+    "name_kor": "여상",
+    "preview1": "https://i.pinimg.com/474x/65/ad/08/65ad08517a73808add3a5673a29aab59.jpg",
+    "preview2": "https://i.pinimg.com/474x/2d/53/b8/2d53b88aeaad8631627bf819c408d8aa.jpg",
+    "preview3": "https://i.pinimg.com/474x/5a/d4/78/5ad478a2663dce9f9c7a2e3f6e86e08e.jpg"
   },
     {
-    "name": "Flower",
-    "name_kor": "봄꽃",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "SAN",
+    "name_kor": "산",
+    "preview1": "https://i.pinimg.com/474x/90/86/ff/9086ff8730131d3b5b95dc1d80534c5b.jpg",
+    "preview2": "https://i.pinimg.com/474x/9a/20/bc/9a20bcfb2787a1ba0da3980bc7469d77.jpg",
+    "preview3": "https://i.pinimg.com/474x/e7/7b/7a/e77b7aa3d5629c6188f179ca1453ef71.jpg"
   },
       {
-    "name": "Animal",
-    "name_kor": "귀여운동물",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "MINGI",
+    "name_kor": "민기",
+    "preview1": "https://i.pinimg.com/474x/af/f2/6a/aff26aa9dda2dc132c5248ac2265bc04.jpg",
+    "preview2": "https://i.pinimg.com/474x/8c/fe/73/8cfe73845633f29306a979e70635c7ae.jpg",
+    "preview3": "https://i.pinimg.com/474x/be/65/1f/be651fa0901997f54d9dcde739209968.jpg"
   },
   {
-    "name": "Black",
-    "name_kor": "검정색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "WOOYOUNG",
+    "name_kor": "우영",
+    "preview1": "https://i.pinimg.com/474x/96/d3/46/96d346397bf6a9cdf76d87dbd4e7f717.jpg",
+    "preview2": "https://i.pinimg.com/474x/ee/1b/70/ee1b70482c7431520d0184388e92fd9b.jpg",
+    "preview3": "https://i.pinimg.com/474x/8f/d7/19/8fd719791c4eff326005268c42c9f93a.jpg"
   },
   {
-    "name": "Pink",
-    "name_kor": "핑크색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Yellow",
-    "name_kor": "노란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Green",
-    "name_kor": "녹색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Blue",
-    "name_kor": "파란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Fill",
-    "name_kor": "단색",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "JONGHO",
+    "name_kor": "종호",
+    "preview1": "https://i.pinimg.com/474x/47/ff/73/47ff7330dd6b7157882ee596d1451f6e.jpg",
+    "preview2": "https://i.pinimg.com/474x/42/8e/89/428e89261b6b6ccf62cde1321c641100.jpg",
+    "preview3": "https://i.pinimg.com/474x/91/a6/a9/91a6a95636f1ae9e78ea7a8ffaa7b3d6.jpg"
   }
 ]
