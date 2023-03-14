@@ -1,5 +1,12 @@
 [
   {
+    "name": "Premium",
+    "name_kor": "프리미엄 배경화면",
+    "preview1": "https://i.pinimg.com/564x/2a/f1/bd/2af1bd0b6c9deaff0d626eb84eefe819.jpg",
+    "preview2": "https://i.pinimg.com/564x/fa/90/0b/fa900b8c4ea94da9837ae005165b0550.jpg",
+    "preview3": "https://i.pinimg.com/564x/cf/24/37/cf243740128ebc5479a4d3bbb9206f91.jpg"
+  },
+  {
     "name": "TOMORROW X TOGETHER",
     "name_kor": "투모로우바이투게더",
     "preview1": "https://i.pinimg.com/474x/3e/2b/83/3e2b83541c815597a3cf7cb159112de4.jpg",
