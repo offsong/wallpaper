@@ -1,93 +1,44 @@
 [
   {
-    "name": "Aesthetic",
-    "name_kor": "감성",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "Red Velvet",
+    "name_kor": "레드벨벳",
+    "preview1": "https://i.pinimg.com/474x/03/2c/76/032c76fb63ce4f1fc741cbe190dae83d.jpg",
+    "preview2": "https://i.pinimg.com/474x/b4/c8/9c/b4c89cf50aa1395bd557a77ffafe2753.jpg",
+    "preview3": "https://i.pinimg.com/474x/c6/d6/35/c6d635d210f9639dfdfca74f55b74e99.jpg"
   },
   {
-    "name": "Illust",
-    "name_kor": "일러스트",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "IRENE",
+    "name_kor": "아이린",
+    "preview1": "https://i.pinimg.com/474x/7a/a6/5c/7aa65ca0e1a3e90143d595b531627bc5.jpg",
+    "preview2": "https://i.pinimg.com/474x/55/c5/56/55c556df6b43c9d7cb65f4301802f7d3.jpg",
+    "preview3": "https://i.pinimg.com/474x/5b/fd/79/5bfd790e6e291521210bf525cf37c1ca.jpg"
   },
     {
-    "name": "3D",
-    "name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "SEULGI",
+    "name_kor": "슬기",
+    "preview1": "https://i.pinimg.com/474x/d8/0f/10/d80f1060720f3ef9a9a9c8ed858ec80f.jpg",
+    "preview2": "https://i.pinimg.com/474x/64/46/fe/6446fe6c04db1e58b6459f681fca9ace.jpg",
+    "preview3": "https://i.pinimg.com/474x/81/71/5e/81715ec47880ea4155399844d8a907bb.jpg"
   },
      {
-    "name": "Cute",
-	"name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "WENDY",
+    "name_kor": "웬디",
+    "preview1": "https://i.pinimg.com/474x/00/18/d4/0018d41927a762fd375a7c83d474c62b.jpg",
+    "preview2": "https://i.pinimg.com/474x/e0/90/0c/e0900cf637cf4edd9313aa4c404d4330.jpg",
+    "preview3": "https://i.pinimg.com/474x/6f/bc/7e/6fbc7ef77abc6d9f90aa958d273d5b65.jpg"
   },
   {
-    "name": "Fantasy",
-    "name_kor": "판타지",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "JOY",
+    "name_kor": "조이",
+    "preview1": "https://i.pinimg.com/474x/b8/b1/e9/b8b1e9fc91dcf438c0a8492aa8239b87.jpg",
+    "preview2": "https://i.pinimg.com/474x/02/e5/6b/02e56bb5087a1b03e6ea8fe788cfdcfa.jpg",
+    "preview3": "https://i.pinimg.com/474x/62/7a/9f/627a9f57211080da552d136c1b9a925c.jpg"
   },
     {
-    "name": "Flower",
-    "name_kor": "봄꽃",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-      {
-    "name": "Animal",
-    "name_kor": "귀여운동물",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Black",
-    "name_kor": "검정색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Pink",
-    "name_kor": "핑크색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Yellow",
-    "name_kor": "노란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Green",
-    "name_kor": "녹색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Blue",
-    "name_kor": "파란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Fill",
-    "name_kor": "단색",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "YERI",
+    "name_kor": "예리",
+    "preview1": "https://i.pinimg.com/474x/d0/3f/6b/d03f6bef0497ba187db4a4741ba40644.jpg",
+    "preview2": "https://i.pinimg.com/474x/bd/f3/8a/bdf38a2af63d9ff96affd8ef03aa2b05.jpg",
+    "preview3": "https://i.pinimg.com/474x/b5/e5/0c/b5e50cf6927608814b81e49b4b761981.jpg"
   }
 ]
