@@ -1,93 +1,51 @@
 [
   {
-    "name": "Aesthetic",
-    "name_kor": "감성",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "STAYC",
+    "name_kor": "스테이씨",
+    "preview1": "https://i.pinimg.com/474x/1d/5d/98/1d5d98da197eb47ae82914f441b651f0.jpg",
+    "preview2": "https://i.pinimg.com/474x/83/43/af/8343af857ca93dc1dabf1a6bcfa39401.jpg",
+    "preview3": "https://i.pinimg.com/474x/fe/54/b1/fe54b1738d7c073e82e322908f4f80a3.jpg"
   },
   {
-    "name": "Illust",
-    "name_kor": "일러스트",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "SUMIN",
+    "name_kor": "수민",
+    "preview1": "https://i.pinimg.com/474x/e4/53/5c/e4535cad6412aed6d640f10e31cebac4.jpg",
+    "preview2": "https://i.pinimg.com/474x/5b/54/19/5b54196a50bacd459328011ecdcd832e.jpg",
+    "preview3": "https://i.pinimg.com/474x/1a/3c/63/1a3c63db289dc976aa0d5bb73d9ae8f0.jpg"
+  },
+  {
+    "name": "SIEUN",
+    "name_kor": "시은",
+    "preview1": "https://i.pinimg.com/474x/e8/bd/91/e8bd91071111d5826b76cd276226a370.jpg",
+    "preview2": "https://i.pinimg.com/474x/36/19/66/361966495f9275b5620675e71cf502dc.jpg",
+    "preview3": "https://i.pinimg.com/474x/3f/cd/23/3fcd23113a0f94c039bfb116b09f014e.jpg"
   },
     {
-    "name": "3D",
-    "name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "ISA",
+    "name_kor": "아이사",
+    "preview1": "https://i.pinimg.com/474x/fd/55/63/fd5563e38d9fbe910493f96894b9eda8.jpg",
+    "preview2": "https://i.pinimg.com/474x/90/f1/08/90f10808e9500dbd1a388e7d80e175cb.jpg",
+    "preview3": "https://i.pinimg.com/474x/a4/60/3e/a4603ec189b0d60681827bd2606eef8d.jpg"
   },
      {
-    "name": "Cute",
-	"name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Fantasy",
-    "name_kor": "판타지",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-    {
-    "name": "Flower",
-    "name_kor": "봄꽃",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "SEEUN",
+    "name_kor": "세은",
+    "preview1": "https://i.pinimg.com/474x/9b/c3/0d/9bc30d63cbb9ead8718b141d1bd5db13.jpg",
+    "preview2": "https://i.pinimg.com/474x/a3/7a/ba/a37aba340a796d4e72ccce534655393e.jpg",
+    "preview3": "https://i.pinimg.com/474x/17/3f/ef/173fef2bbed7d25fc9607cc5d37d3919.jpg"
   },
       {
-    "name": "Animal",
-    "name_kor": "귀여운동물",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "YOON",
+    "name_kor": "윤",
+    "preview1": "https://i.pinimg.com/474x/d2/9a/04/d29a042d6f2113d60299c49feadc4719.jpg",
+    "preview2": "https://i.pinimg.com/474x/03/23/d5/0323d540f409781498c65ffbf8d6b0fa.jpg",
+    "preview3": "https://i.pinimg.com/474x/56/1c/85/561c85ad342a68f00bf847b50690d9a1.jpg"
   },
   {
-    "name": "Black",
-    "name_kor": "검정색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Pink",
-    "name_kor": "핑크색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Yellow",
-    "name_kor": "노란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Green",
-    "name_kor": "녹색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Blue",
-    "name_kor": "파란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Fill",
-    "name_kor": "단색",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "J",
+    "name_kor": "재이",
+    "preview1": "https://i.pinimg.com/474x/0c/4f/93/0c4f932635de4e8a527ab7e19c978dc3.jpg",
+    "preview2": "https://i.pinimg.com/474x/54/ff/37/54ff378dd66a47badb8c51f8c560603a.jpg",
+    "preview3": "https://i.pinimg.com/474x/b0/b8/01/b0b8018327a444bf8de6afaec13b91e2.jpg"
   }
 ]
