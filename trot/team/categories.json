@@ -1,93 +1,58 @@
 [
   {
-    "name": "Aesthetic",
-    "name_kor": "감성",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "임영웅",
+    "name_kor": "임영웅",
+   "preview1": "https://i.pinimg.com/474x/82/ef/82/82ef827da0ada8d9d9f6424093ee8e06.jpg",
+    "preview2": "https://i.pinimg.com/474x/50/c2/0d/50c20df2376abfc478cdf49be59ec0d4.jpg",
+    "preview3": "https://i.pinimg.com/474x/ac/b2/b1/acb2b19933b58f713bf45096c5520147.jpg"
   },
   {
-    "name": "Illust",
-    "name_kor": "일러스트",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "영탁",
+    "name_kor": "영탁",
+    "preview1": "https://i.pinimg.com/474x/b9/c9/6e/b9c96eca5f12fb6f5dbe7fcad9c45502.jpg",
+    "preview2": "https://i.pinimg.com/474x/4e/21/09/4e2109f651021b9c405d7706d1bc0024.jpg",
+    "preview3": "https://i.pinimg.com/474x/96/39/82/963982d1615be09b1ff17fa8427a5b99.jpg"
   },
     {
-    "name": "3D",
-    "name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "이찬원",
+    "name_kor": "이찬원",
+    "preview1": "https://i.pinimg.com/474x/c5/2b/5d/c52b5d988b6c2c74a6b9139f72b1553d.jpg",
+    "preview2": "https://i.pinimg.com/474x/b2/24/8d/b2248d4b2e48241a5e6896638d700ab1.jpg",
+    "preview3": "https://i.pinimg.com/474x/51/56/3c/51563c691eb81b73fdea87c9d9b00f72.jpg"
   },
      {
-    "name": "Cute",
-	"name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "김호중",
+	"name_kor": "김호중",
+    "preview1": "https://i.pinimg.com/474x/56/6e/85/566e85aaacd2f86730c702542c5bb665.jpg",
+    "preview2": "https://i.pinimg.com/474x/29/6d/7c/296d7c62423fea78fd510b8495444a0e.jpg",
+    "preview3": "https://i.pinimg.com/474x/e4/52/3d/e4523dcc53257be70346a108b3527033.jpg"
   },
   {
-    "name": "Fantasy",
-    "name_kor": "판타지",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "정동원",
+    "name_kor": "정동원",
+    "preview1": "https://i.pinimg.com/474x/67/e4/f8/67e4f8e7cb5e0c034942fe3894fc29ea.jpg",
+    "preview2": "https://i.pinimg.com/474x/7d/4c/6d/7d4c6df2cb5e3a9ee688fb9eeba86d23.jpg",
+    "preview3": "https://i.pinimg.com/474x/be/a0/b4/bea0b47c39aa6b8a15794e72fd46542a.jpg"
   },
     {
-    "name": "Flower",
-    "name_kor": "봄꽃",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "장민호",
+    "name_kor": "장민호",
+    "preview1": "https://i.pinimg.com/474x/df/bb/cb/dfbbcb422130fd8fe318f5565aa817ae.jpg",
+    "preview2": "https://i.pinimg.com/474x/96/4a/0a/964a0a5099a4a860bbb004102ce4cfe1.jpg",
+    "preview3": "https://i.pinimg.com/474x/4f/43/c3/4f43c3f2a165c698a91bc62de3098cdc.jpg"
   },
       {
-    "name": "Animal",
-    "name_kor": "귀여운동물",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "김희재",
+    "name_kor": "김희재",
+    "preview1": "https://i.pinimg.com/474x/74/6a/3a/746a3a3c82dfebda6f139dadfdfb9cf5.jpg",
+    "preview2": "https://i.pinimg.com/474x/01/73/16/017316a75a4e982c51227ab7f8e7917f.jpg",
+    "preview3": "https://i.pinimg.com/474x/9d/f7/00/9df70056ee4b1fe348dde971cd9b9c25.jpg"
   },
   {
-    "name": "Black",
-    "name_kor": "검정색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Pink",
-    "name_kor": "핑크색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Yellow",
-    "name_kor": "노란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Green",
-    "name_kor": "녹색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Blue",
-    "name_kor": "파란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Fill",
-    "name_kor": "단색",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "송가인",
+    "name_kor": "송가인",
+    "preview1": "https://i.pinimg.com/474x/91/fb/84/91fb8457bacacc214f0bb487a1248e94.jpg",
+    "preview2": "https://i.pinimg.com/474x/4e/01/6d/4e016dd4f887814f90bb42c3018161a2.jpg",
+    "preview3": "https://i.pinimg.com/474x/a1/2d/88/a12d88ab3c16c8ec5559d0c3dd3f8b13.jpg"
   }
 ]
