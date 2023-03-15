@@ -1,93 +1,72 @@
 [
   {
-    "name": "Aesthetic",
-    "name_kor": "감성",
+    "name": "NiziU",
+    "name_kor": "니쥬",
     "preview1": "",
     "preview2": "",
     "preview3": ""
   },
   {
-    "name": "Illust",
-    "name_kor": "일러스트",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "MAKO",
+    "name_kor": "마코",
+    "preview1": "https://i.pinimg.com/474x/5b/c7/f1/5bc7f1897e087431ac5a76a439dc5514.jpg",
+    "preview2": "https://i.pinimg.com/474x/5f/7a/ca/5f7aca73c71221d860f1ce7073bae76b.jpg",
+    "preview3": "https://i.pinimg.com/474x/bb/3f/30/bb3f30fe872a44a03bfa301d011371db.jpg"
   },
     {
-    "name": "3D",
-    "name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "RIO",
+    "name_kor": "리오",
+    "preview1": "https://i.pinimg.com/474x/14/17/16/141716beed68c07207c5297dac40bd06.jpg",
+    "preview2": "https://i.pinimg.com/474x/51/ee/8a/51ee8a5fbb6f220590ae08a05ff3c5c6.jpg",
+    "preview3": "https://i.pinimg.com/474x/80/e8/c5/80e8c58e22e193c860502d9c78804400.jpg"
   },
      {
-    "name": "Cute",
-	"name_kor": "3D",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "MAYA",
+    "name_kor": "마야",
+    "preview1": "https://i.pinimg.com/474x/10/85/89/1085892e4b74008113fb4c28667f0cd8.jpg",
+    "preview2": "https://i.pinimg.com/474x/69/37/64/693764150776749ca1324d7b0185408a.jpg",
+    "preview3": "https://i.pinimg.com/474x/e3/87/08/e387089ae211a55adfed2ea655839cae.jpg"
   },
   {
-    "name": "Fantasy",
-    "name_kor": "판타지",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "RIKU",
+    "name_kor": "리쿠",
+    "preview1": "https://i.pinimg.com/474x/10/27/4e/10274ece328dfba0783ae612a48e88dc.jpg",
+    "preview2": "https://i.pinimg.com/474x/1e/65/72/1e657253d1b2bcdeb6df18a98a09a0c2.jpg",
+    "preview3": "https://i.pinimg.com/474x/ca/e6/6f/cae66f052c24cfed201437483d069033.jpg"
   },
     {
-    "name": "Flower",
-    "name_kor": "봄꽃",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "AYAKA",
+    "name_kor": "아야카",
+    "preview1": "https://i.pinimg.com/474x/f3/19/39/f319393fa02231366f0bdbeb2dcbdf54.jpg",
+    "preview2": "https://i.pinimg.com/474x/32/10/68/3210680aff08d9b6a02adf15ba09da83.jpg",
+    "preview3": "https://i.pinimg.com/474x/09/fc/61/09fc611ca7db91e49a6bd6cb4c39dffa.jpg"
   },
       {
-    "name": "Animal",
-    "name_kor": "귀여운동물",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "MAYUKA",
+    "name_kor": "마유카",
+    "preview1": "https://i.pinimg.com/474x/f4/76/1a/f4761a5111d80363216544a83f7a3d92.jpg",
+    "preview2": "https://i.pinimg.com/474x/fd/dc/6b/fddc6bc8434443b317dba6e75750c3bd.jpg",
+    "preview3": "https://i.pinimg.com/474x/6a/00/45/6a004534cec5688794921dfcc0370b89.jpg"
   },
   {
-    "name": "Black",
-    "name_kor": "검정색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "RIMA",
+    "name_kor": "리마",
+    "preview1": "https://i.pinimg.com/474x/51/b0/eb/51b0eb105500e171e1f59d640d611750.jpg",
+    "preview2": "https://i.pinimg.com/474x/71/b3/0c/71b30c9dbbb7036a5e525d5b8b8db3c8.jpg",
+    "preview3": "https://i.pinimg.com/474x/18/a9/c2/18a9c286b99345c6af89479c533d3f63.jpg"
   },
   {
-    "name": "Pink",
-    "name_kor": "핑크색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "MIIHI",
+    "name_kor": "미이히",
+    "preview1": "https://i.pinimg.com/474x/91/9f/be/919fbec7ac481911e34019c0e0f0016f.jpg",
+    "preview2": "https://i.pinimg.com/474x/e8/3a/e5/e83ae51f054a521baf05a191afdf4f29.jpg",
+    "preview3": "https://i.pinimg.com/474x/1f/ce/9a/1fce9a59daf3d012f08f01986dc3c055.jpg"
   },
   {
-    "name": "Yellow",
-    "name_kor": "노란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Green",
-    "name_kor": "녹색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Blue",
-    "name_kor": "파란색테마",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
-  },
-  {
-    "name": "Fill",
-    "name_kor": "단색",
-    "preview1": "",
-    "preview2": "",
-    "preview3": ""
+    "name": "NINA",
+    "name_kor": "니나",
+    "preview1": "https://i.pinimg.com/474x/75/3a/3f/753a3f88e91bc8fd0ff665693de2ce37.jpg",
+    "preview2": "https://i.pinimg.com/474x/8f/4d/7e/8f4d7edd43b2d834165bbe5ae6865799.jpg",
+    "preview3": "https://i.pinimg.com/474x/c5/ed/11/c5ed11f310269d89b2ee016df80dec52.jpg"
   }
 ]
