@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Aesthetic",
+    "name_kor": "감성",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Illust",
+    "name_kor": "일러스트",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+    {
+    "name": "3D",
+    "name_kor": "3D",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+     {
+    "name": "Cute",
+	"name_kor": "3D",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Fantasy",
+    "name_kor": "판타지",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+    {
+    "name": "Flower",
+    "name_kor": "봄꽃",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+      {
+    "name": "Animal",
+    "name_kor": "귀여운동물",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Black",
+    "name_kor": "검정색테마",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Pink",
+    "name_kor": "핑크색테마",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Yellow",
+    "name_kor": "노란색테마",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Green",
+    "name_kor": "녹색테마",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Blue",
+    "name_kor": "파란색테마",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  },
+  {
+    "name": "Fill",
+    "name_kor": "단색",
+    "preview1": "",
+    "preview2": "",
+    "preview3": ""
+  }
+]
