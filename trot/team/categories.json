@@ -1,5 +1,12 @@
 [
   {
+    "name": "미스터트롯",
+    "name_kor": "미스터트롯",
+   "preview1": "https://i.pinimg.com/474x/38/08/34/3808346fff443131721620a61425b788.jpg",
+    "preview2": "https://i.pinimg.com/474x/37/09/52/3709526653e95a74d0410821c7736e81.jpg",
+    "preview3": "https://i.pinimg.com/474x/98/f8/8c/98f88c6f3948af67e625112f7ce8491b.jpg"
+  },
+  {
     "name": "임영웅",
     "name_kor": "임영웅",
    "preview1": "https://i.pinimg.com/474x/82/ef/82/82ef827da0ada8d9d9f6424093ee8e06.jpg",
