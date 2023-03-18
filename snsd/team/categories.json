@@ -1,9 +1,58 @@
 [
     {
-       "name": "SOOBIN",
-       "name_kor": "수빈",
-       "preview1": "https://i.pinimg.com/474x/1d/0b/06/1d0b06ff3913ace7a564f2f64cceec43.jpg",
-       "preview2": "https://i.pinimg.com/474x/c0/48/97/c048978581070360f36627f44f0162ce.jpg",
-       "preview3": "https://i.pinimg.com/474x/9a/f6/13/9af613e1413d044e6e907f52e7d36390.jpg"
+       "name": "TAEYEON",
+       "name_kor": "태연",
+       "preview1": "https://i.pinimg.com/474x/eb/6e/5d/eb6e5d28a86f09c8d0da30ddb098cd9d.jpg",
+       "preview2": "https://i.pinimg.com/474x/dd/6a/40/dd6a40ee78ceddf41b7bbc47b0dc2ad7.jpg",
+       "preview3": "https://i.pinimg.com/474x/e5/54/dc/e554dca0d628a815bba8601c208bd3de.jpg"
+     },
+     {
+       "name": "SUNNY",
+       "name_kor": "써니",
+       "preview1": "https://i.pinimg.com/474x/be/8d/63/be8d63b111752867a9663047c5d17ed1.jpg",
+       "preview2": "https://i.pinimg.com/474x/da/8e/0b/da8e0b9eb936e7596a0891e111e411de.jpg",
+       "preview3": "https://i.pinimg.com/474x/dd/e5/3a/dde53a2bade1ebd377a8b84d8256709c.jpg"
+     },
+     {
+       "name": "TIFFANY",
+       "name_kor": "티파니",
+        "preview1": "https://i.pinimg.com/474x/06/40/23/064023a11b4557cdb379341a7781fc8d.jpg",
+       "preview2": "https://i.pinimg.com/474x/7c/52/f0/7c52f0cc1e9b6b5cf1c5dee8e7feb150.jpg",
+       "preview3": "https://i.pinimg.com/474x/aa/b7/07/aab707fc53b0d8d0bebf74b395b95799.jpg"
+     },
+     {
+       "name": "HYOYEON",
+       "name_kor": "효연",
+         "preview1": "https://i.pinimg.com/474x/fa/cc/f3/faccf32cdae4f010320e2441da280ffc.jpg",
+       "preview2": "https://i.pinimg.com/474x/3e/40/30/3e40302f5e7991cc0aa82ace555464eb.jpg",
+       "preview3": "https://i.pinimg.com/474x/93/28/05/932805dd47c68f830b5a417f02d9602e.jpg"
+     },
+     {
+       "name": "YURI",
+       "name_kor": "유리",
+         "preview1": "https://i.pinimg.com/474x/0c/0e/04/0c0e04a7dc959853276c8d8385b7ab4c.jpg",
+       "preview2": "https://i.pinimg.com/474x/c2/75/64/c2756417f8d993a6ab4a0994afd075ea.jpg",
+       "preview3": "https://i.pinimg.com/474x/eb/ba/a4/ebbaa4f986b033c1a1d4fd2c60d1bde4.jpg"
+     },
+     {
+       "name": "SOOYOUNG",
+       "name_kor": "수영",
+         "preview1": "https://i.pinimg.com/474x/17/48/38/1748386ef69b27b37a59a7ecfa942a5e.jpg",
+       "preview2": "https://i.pinimg.com/474x/e2/1f/7d/e21f7d9f2389fcaa60b4e3f7b539e47b.jpg",
+       "preview3": "https://i.pinimg.com/474x/2c/c4/57/2cc45704cbc9f230b60f4821431477e8.jpg"
+     },
+     {
+       "name": "YOONA",
+       "name_kor": "윤아",
+         "preview1": "https://i.pinimg.com/474x/b1/04/b8/b104b81e925b1c41a510e3b6eefbf7bd.jpg",
+       "preview2": "https://i.pinimg.com/474x/af/de/56/afde56f00a7b8c5711955bbcf1b22fdc.jpg",
+       "preview3": "https://i.pinimg.com/474x/28/0e/33/280e330ab9fcd32d669d0ec960dabeae.jpg"
+     },
+     {
+       "name": "SEOHYUN",
+       "name_kor": "서현",
+         "preview1": "https://i.pinimg.com/474x/df/fd/bb/dffdbb629ca81a1e0854e24190c11001.jpg",
+       "preview2": "https://i.pinimg.com/474x/fa/20/87/fa2087b4571d1e557e7c0905cceaffe7.jpg",
+       "preview3": "https://i.pinimg.com/474x/f7/ad/0a/f7ad0aa69c065c662251e2392ffeae65.jpg"
      }
 ]
