@@ -1,0 +1,16 @@
+[
+	{
+	    "name": "Girl",
+	    "name_kor": "여자 일러스트",
+	    "preview1": "https://i.pinimg.com/474x/64/99/c8/6499c80cf33356ae83ff87d6b465d9ac.jpg",
+	    "preview2": "https://i.pinimg.com/474x/e3/a0/ac/e3a0ac988babeb7bb8c05083acc0c7ec.jpg",
+	    "preview3": "https://i.pinimg.com/474x/af/77/54/af7754b21494ef6c12f7c2216d39e72c.jpg"
+	  },
+  	{
+  	    "name": "Boy",
+  	    "name_kor": "남자 일러스트",
+  	    "preview1": "https://i.pinimg.com/474x/35/71/f7/3571f786d65c3eb1e39969742e635a45.jpg",
+  	    "preview2": "https://i.pinimg.com/474x/bb/a9/48/bba94828ef712d4b07df20e79baf3b8f.jpg",
+  	    "preview3": "https://i.pinimg.com/474x/76/9a/9a/769a9a056835d38818f844fd77d255bf.jpg"
+  	  }
+]
