@@ -5,5 +5,26 @@
 	    "preview1": "https://i.pinimg.com/474x/bb/2a/05/bb2a054df9e88efb5a07ba53dd682e09.jpg",
 	    "preview2": "https://i.pinimg.com/474x/5b/cf/8e/5bcf8e91532cef31056a5fec89f1b102.jpg",
 	    "preview3": "https://i.pinimg.com/474x/44/1d/3b/441d3b8a6f92e871eb2eebff3a73b094.jpg"
+	  },
+	{
+	    "name": "EUNHA",
+	    "name_kor": "은하",
+	    "preview1": "https://i.pinimg.com/474x/ac/2c/e2/ac2ce2dfa51c3449944376563181ab14.jpg",
+	    "preview2": "https://i.pinimg.com/474x/f0/7c/98/f07c98a7c3bf5d7baa26c765ce6ca6c7.jpg",
+	    "preview3": "https://i.pinimg.com/474x/e7/77/ef/e777ef99fd5d3056c5a7ea9634e50b11.jpg"
+	  },
+	{
+	    "name": "SINB",
+	    "name_kor": "신비",
+	    "preview1": "https://i.pinimg.com/474x/61/41/03/6141037a2b3e70ac81e61e7c06ff63d3.jpg",
+	    "preview2": "https://i.pinimg.com/474x/64/1c/8d/641c8d8e4666a14f337840514b2067ea.jpg",
+	    "preview3": "https://i.pinimg.com/474x/47/d3/4b/47d34b856ec436a543fca1c18a105cd2.jpg"
+	  },
+	{
+	    "name": "UMJI",
+	    "name_kor": "엄지",
+	    "preview1": "https://i.pinimg.com/474x/2e/7e/50/2e7e504312b525faf0e1dfebc3b35744.jpg",
+	    "preview2": "https://i.pinimg.com/474x/ad/47/45/ad4745908f0fa8de33ab94a2f4eaf8bd.jpg",
+	    "preview3": "https://i.pinimg.com/474x/ac/96/bc/ac96bc97d704e86d1b3b38b992ed1f78.jpg"
 	  }
 ]
