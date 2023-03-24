@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WALLPAPER",
+    "name_kor": "배경화면",
+    "preview1": "https://i.pinimg.com/474x/28/ca/d9/28cad9a3fd81647ca0ace81239035b57.jpg",
+    "preview2": "https://i.pinimg.com/474x/c9/70/64/c97064c7e6310beb9f3277dbc0ca1ce8.jpg",
+    "preview3": "https://i.pinimg.com/474x/c5/65/4f/c5654f93b9bb9cf994af599854295e12.jpg"
+  },
+  {
+    "name": "QUOTE",
+    "name_kor": "명언",
+    "preview1": "https://i.pinimg.com/474x/72/5e/fc/725efc7a534bbd112936893636e76f72.jpg",
+    "preview2": "https://i.pinimg.com/474x/f7/f1/a7/f7f1a77f54777b90aa35df8035a9ae86.jpg",
+    "preview3": "https://i.pinimg.com/474x/48/dd/3a/48dd3a4771becfb4411c8ee974264424.jpg"
+  }
+]
