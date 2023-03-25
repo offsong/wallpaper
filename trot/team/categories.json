@@ -27,14 +27,14 @@
     "preview2": "https://i.pinimg.com/474x/b2/24/8d/b2248d4b2e48241a5e6896638d700ab1.jpg",
     "preview3": "https://i.pinimg.com/474x/51/56/3c/51563c691eb81b73fdea87c9d9b00f72.jpg"
   },
-{
+  {
     "name": "송가인",
     "name_kor": "송가인",
     "preview1": "https://i.pinimg.com/474x/91/fb/84/91fb8457bacacc214f0bb487a1248e94.jpg",
     "preview2": "https://i.pinimg.com/474x/4e/01/6d/4e016dd4f887814f90bb42c3018161a2.jpg",
     "preview3": "https://i.pinimg.com/474x/a4/80/e0/a480e0cf8fbe4a4e50a97b15e6c5345a.jpg"
   },
-     {
+  {
     "name": "김호중",
 	"name_kor": "김호중",
     "preview1": "https://i.pinimg.com/474x/56/6e/85/566e85aaacd2f86730c702542c5bb665.jpg",
@@ -48,40 +48,47 @@
     "preview2": "https://i.pinimg.com/474x/7d/4c/6d/7d4c6df2cb5e3a9ee688fb9eeba86d23.jpg",
     "preview3": "https://i.pinimg.com/474x/be/a0/b4/bea0b47c39aa6b8a15794e72fd46542a.jpg"
   },
-    {
+  {
     "name": "장민호",
     "name_kor": "장민호",
     "preview1": "https://i.pinimg.com/474x/df/bb/cb/dfbbcb422130fd8fe318f5565aa817ae.jpg",
     "preview2": "https://i.pinimg.com/474x/96/4a/0a/964a0a5099a4a860bbb004102ce4cfe1.jpg",
     "preview3": "https://i.pinimg.com/474x/4f/43/c3/4f43c3f2a165c698a91bc62de3098cdc.jpg"
   },
- {
+  {
     "name": "홍진영",
     "name_kor": "홍진영",
     "preview1": "https://i.pinimg.com/474x/f8/f7/c1/f8f7c1ef4f52d70c40afe24ad6d06db7.jpg",
     "preview2": "https://i.pinimg.com/474x/a4/21/df/a421df0207eeaa052dc54e272ecc4b49.jpg",
     "preview3": "https://i.pinimg.com/474x/03/02/09/0302094226c5c3bc05afe04ccac11a4a.jpg"
   },
-      {
+  {
     "name": "김희재",
     "name_kor": "김희재",
     "preview1": "https://i.pinimg.com/474x/74/6a/3a/746a3a3c82dfebda6f139dadfdfb9cf5.jpg",
     "preview2": "https://i.pinimg.com/474x/01/73/16/017316a75a4e982c51227ab7f8e7917f.jpg",
     "preview3": "https://i.pinimg.com/474x/9d/f7/00/9df70056ee4b1fe348dde971cd9b9c25.jpg"
   },
-	      {
+  {
     "name": "장윤정",
     "name_kor": "장윤정",
     "preview1": "https://i.pinimg.com/474x/5d/d6/4a/5dd64ab5ac201f321dfc6d6629966760.jpg",
     "preview2": "https://i.pinimg.com/474x/f7/76/5f/f7765fe42db0ae1f2b749ba50b66ec12.jpg",
     "preview3": "https://i.pinimg.com/474x/76/c3/ac/76c3ac13f2b3075d9f488617a0d28a1a.jpg"
   },
-	      {
+  {
     "name": "박서진",
     "name_kor": "박서진",
     "preview1": "https://i.pinimg.com/474x/2e/d2/5c/2ed25cc9c75d34c0db78f0ad97bc49f1.jpg",
     "preview2": "https://i.pinimg.com/474x/a2/45/70/a2457008ecf92410b95bd572b9217408.jpg",
     "preview3": "https://i.pinimg.com/474x/f1/47/a6/f147a67e29f86e0073c50f100680f028.jpg"
+  },
+  {
+    "name": "나태주",
+    "name_kor": "나태주",
+    "preview1": "https://i.pinimg.com/474x/c7/60/3c/c7603c2fb8afa2e102db0cfc774441e1.jpg",
+    "preview2": "https://i.pinimg.com/474x/fc/c9/72/fcc9722056546221aa06e3c00a7cfac8.jpg",
+    "preview3": "https://i.pinimg.com/474x/cb/98/d2/cb98d266c67f987a4a84fbb2e2a3c6a4.jpg"
   }
   
 ]
