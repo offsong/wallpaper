@@ -5,5 +5,68 @@
 	    "preview1": "https://i.pinimg.com/474x/c0/b1/d4/c0b1d4e334b45e692b739ab3ec65403b.jpg",
 	    "preview2": "https://i.pinimg.com/474x/aa/b1/6b/aab16b48e1db800cc170c1d0d83c419a.jpg",
 	    "preview3": "https://i.pinimg.com/474x/88/56/06/885606c46ccdc9a103bed64b29744171.jpg"
+	  },
+	{
+	    "name": "DAYEON",
+	    "name_kor": "김다연",
+	    "preview1": "https://i.pinimg.com/474x/81/81/4a/81814a4a4b07c94a1423491dd62945b6.jpg",
+	    "preview2": "https://i.pinimg.com/474x/cc/f3/f6/ccf3f64b8098e29044690e9668898c62.jpg",
+	    "preview3": "https://i.pinimg.com/474x/96/c9/7f/96c97fefb8a983757435ce9aa6ed1e60.jpg"
+	  },
+	{
+	    "name": "YUJIN",
+	    "name_kor": "최유진",
+	    "preview1": "https://i.pinimg.com/736x/84/b4/0e/84b40e958292b1e92c628bf397945e74.jpg",
+	    "preview2": "https://i.pinimg.com/474x/84/af/fc/84affca7d6014e482ebb9c70e1cba6c6.jpg",
+	    "preview3": "https://i.pinimg.com/474x/b9/d5/b7/b9d5b7f875b0d571e0402c83818cf421.jpg"
+	  },
+	{
+	    "name": "HIKARU",
+	    "name_kor": "히카루",
+	    "preview1": "https://i.pinimg.com/474x/aa/7c/e2/aa7ce2e9a76e5574ff963e84d8be25f3.jpg",
+	    "preview2": "https://i.pinimg.com/474x/54/74/df/5474df7a9990c7ff3845fd209a9ba1db.jpg",
+	    "preview3": "https://i.pinimg.com/474x/66/a9/25/66a9256fa4dc663ccfb22aac4befb42e.jpg"
+	  },
+	{
+	    "name": "XIAOTING",
+	    "name_kor": "샤오팅",
+	    "preview1": "https://i.pinimg.com/474x/d6/8f/92/d68f92c43a384dc04182336be6e790d0.jpg",
+	    "preview2": "https://i.pinimg.com/474x/8b/7b/d4/8b7bd40f6174e2b8ee4642143f6097d4.jpg",
+	    "preview3": "https://i.pinimg.com/474x/84/86/2b/84862b80ced6fd24924ef5aeece65832.jpg"
+	  },
+	{
+	    "name": "HUENING BAHIYYIH",
+	    "name_kor": "휴닝바히에",
+	    "preview1": "https://i.pinimg.com/474x/88/6e/99/886e990beaf2329604d3823eddf0a263.jpg",
+	    "preview2": "https://i.pinimg.com/474x/92/d9/3c/92d93c684e275b0413f06179b92dda64.jpg",
+	    "preview3": "https://i.pinimg.com/474x/ef/be/cb/efbecb6f679119f1cf93b98834686220.jpg"
+	  },
+	{
+	    "name": "MASHIRO",
+	    "name_kor": "마시로",
+	    "preview1": "https://i.pinimg.com/474x/38/b0/7a/38b07a0079998bd1a051ab0b8f2151ee.jpg",
+	    "preview2": "https://i.pinimg.com/474x/88/ee/ec/88eeec8993186980b24485eeb197838a.jpg",
+	    "preview3": "https://i.pinimg.com/474x/ff/d9/cc/ffd9cc8849ef8fcd1e15ef74a3a433da.jpg"
+	  },
+	{
+	    "name": "YOUNGEUN",
+	    "name_kor": "서영은",
+	    "preview1": "https://i.pinimg.com/474x/6b/87/f1/6b87f1dc31f5200f47636f660f9f46e0.jpg",
+	    "preview2": "https://i.pinimg.com/474x/72/e0/e6/72e0e60685be770ca83ff67265f1665b.jpg",
+	    "preview3": "https://i.pinimg.com/474x/11/5c/25/115c25f56c14acb9e1e44c23b7135869.jpg"
+	  },
+	{
+	    "name": "CHAEHYUN",
+	    "name_kor": "김채현",
+	    "preview1": "https://i.pinimg.com/474x/2d/6d/01/2d6d013b2584c534d41404d17aa21c10.jpg",
+	    "preview2": "https://i.pinimg.com/474x/c5/cf/77/c5cf77c3dff4b273938a7a51347f6180.jpg",
+	    "preview3": "https://i.pinimg.com/474x/e0/30/a4/e030a406d8beed46cfc6541f69bd54cf.jpg"
+	  },
+	{
+	    "name": "YESEO",
+	    "name_kor": "강예서",
+	    "preview1": "https://i.pinimg.com/474x/c8/d5/c0/c8d5c01b8f215fb58927b027d06cb1c3.jpg",
+	    "preview2": "https://i.pinimg.com/474x/34/d0/f5/34d0f589da3d067c207c48b3e804983b.jpg",
+	    "preview3": "https://i.pinimg.com/474x/70/e1/6a/70e16af73b2c20133e1956ec04431241.jpg"
 	  }
 ]
