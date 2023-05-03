@@ -254,30 +254,30 @@
 	{
 		    "name": "HYERI",
 		    "name_kor": "이혜리",
-		    "preview1": "",
-		    "preview2": "",
-		    "preview3": ""
+		    "preview1": "https://i.pinimg.com/474x/ee/41/11/ee4111f1d33d2c010f37abbf2c9583e6.jpg",
+		    "preview2": "https://i.pinimg.com/474x/42/53/29/425329c47c2f853d2cbafa6d3d1582ea.jpg",
+		    "preview3": "https://i.pinimg.com/474x/bc/61/02/bc61023b8ef6276e399ede7c9c278a59.jpg"
 	},
 	{
 		    "name": "YOONA",
 		    "name_kor": "임윤아",
-		    "preview1": "",
-		    "preview2": "",
-		    "preview3": ""
+	            "preview1": "https://i.pinimg.com/474x/b1/04/b8/b104b81e925b1c41a510e3b6eefbf7bd.jpg",
+	            "preview2": "https://i.pinimg.com/474x/af/de/56/afde56f00a7b8c5711955bbcf1b22fdc.jpg",
+	            "preview3": "https://i.pinimg.com/474x/28/0e/33/280e330ab9fcd32d669d0ec960dabeae.jpg"
 	},
 	{
 		    "name": "Jang Gyuri",
 		    "name_kor": "장규리",
-		    "preview1": "",
-		    "preview2": "",
-		    "preview3": ""
+		    "preview1": "https://i.pinimg.com/474x/f9/75/a8/f975a8c2d547e1c4550fcbfb0c986fb6.jpg",
+		    "preview2": "https://i.pinimg.com/474x/76/fa/44/76fa44c8f1d25e44a9d9f165414b3813.jpg",
+		    "preview3": "https://i.pinimg.com/474x/a6/c8/f7/a6c8f7efccc728ec0abdd16aae0a269c.jpg"
 	},
 	{
 		    "name": "Jung So-Min",
 		    "name_kor": "정소민",
-		    "preview1": "",
-		    "preview2": "",
-		    "preview3": ""
+		    "preview1": "https://i.pinimg.com/474x/99/a8/4f/99a84fe0170559353721f523d4b57eca.jpg",
+		    "preview2": "https://i.pinimg.com/474x/a2/6d/a2/a26da2e499e5471c76c22d3c511cde21.jpg",
+		    "preview3": "https://i.pinimg.com/474x/11/bd/6f/11bd6fffc576fefa3b3f790605dce76f.jpg"
 	},
 	{
 		    "name": "Cho Yihyun",
@@ -303,9 +303,9 @@
 	{
 		    "name": "SOOYOUNG",
 		    "name_kor": "최수영",
-		    "preview1": "",
-		    "preview2": "",
-		    "preview3": ""
+		    "preview1": "https://i.pinimg.com/474x/17/48/38/1748386ef69b27b37a59a7ecfa942a5e.jpg",
+		    "preview2": "https://i.pinimg.com/474x/e2/1f/7d/e21f7d9f2389fcaa60b4e3f7b539e47b.jpg",
+		    "preview3": "https://i.pinimg.com/474x/2c/c4/57/2cc45704cbc9f230b60f4821431477e8.jpg"
 	},
 	{
 		    "name": "Han So Hee",
