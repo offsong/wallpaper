@@ -1,23 +1,51 @@
-{
-  "Demonslayer": {
-    "reward1": "rewarded_ad_1",
-    "reward2": "rewarded_ad_2",
-    "reward3": "rewarded_ad_3",
-    "interstitial1": "interstitial_ad_1",
-    "interstitial2": "interstitial_ad_2",
-    "interstitial3": "interstitial_ad_3",
-    "banner1": "banner_ad_1",
-    "banner2": "banner_ad_2",
-    "banner3": "banner_ad_3",
-    "open": "open_ad",
-    "exit": "exit_ad",
-    "interestialCount": "4",
-    "rewardCount": "10",
-    "openCount": "1"
+[
+  "name": "DemonSlayer",
+  "reward1": "rewarded_ad_1",
+  "reward2": "rewarded_ad_2",
+  "reward3": "rewarded_ad_3",
+  "interstitial1": "interstitial_ad_1",
+  "interstitial2": "interstitial_ad_2",
+  "interstitial3": "interstitial_ad_3",
+  "banner1": "banner_ad_1",
+  "banner2": "banner_ad_2",
+  "banner3": "banner_ad_3",
+  "open": "open_ad",
+  "exit": "exit_ad",
+  "interestialCount": "4",
+  "rewardCount": "10",
+  "openCount": "1"
   },
-  "ive": {
+  "name": "ive",
+  "reward1": "rewarded_ad_1",
+  "reward2": "rewarded_ad_2",
+  "reward3": "rewarded_ad_3",
+  "interstitial1": "interstitial_ad_1",
+  "interstitial2": "interstitial_ad_2",
+  "interstitial3": "interstitial_ad_3",
+  "banner1": "banner_ad_1",
+  "banner2": "banner_ad_2",
+  "banner3": "banner_ad_3",
+  "open": "open_ad",
+  "exit": "exit_ad",
+  "interestialCount": "4",
+  "rewardCount": "10",
+  "openCount": "1"
   },
-  "nmixx": {
+  "name": "NMIXX",
+  "reward1": "rewarded_ad_1",
+  "reward2": "rewarded_ad_2",
+  "reward3": "rewarded_ad_3",
+  "interstitial1": "interstitial_ad_1",
+  "interstitial2": "interstitial_ad_2",
+  "interstitial3": "interstitial_ad_3",
+  "banner1": "banner_ad_1",
+  "banner2": "banner_ad_2",
+  "banner3": "banner_ad_3",
+  "open": "open_ad",
+  "exit": "exit_ad",
+  "interestialCount": "4",
+  "rewardCount": "10",
+  "openCount": "1"
   }
 
-}
+]
