@@ -10,7 +10,10 @@
     "banner2": "banner_ad_2",
     "banner3": "banner_ad_3",
     "open": "open_ad",
-    "exit": "exit_ad"
+    "exit": "exit_ad",
+    "interestialCount": "4",
+    "rewardCount": "10",
+    "openCount": "1"
   },
   "ive": {
   },
