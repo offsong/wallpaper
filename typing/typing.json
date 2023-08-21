@@ -1,24 +1,20 @@
 [
 {
-"id": 1,
 "PoemTitle": "서시",
 "PoemWriter": "윤동주",
 "PoemText": "dddd"
 },
 {
-  "id": 2,
 "PoemTitle": "꿈",
 "PoemWriter": "똥주",
 "PoemText": "aaaa"
 },
   {
-    "id": 3,
 "PoemTitle": "추가",
 "PoemWriter": "윤동주",
 "PoemText": "cccccccc"
 },
     {
-      "id": 4,
 "PoemTitle": "now",
 "PoemWriter": "윤동주",
 "PoemText": "dddddd"
