@@ -1,35 +1,42 @@
 [
 {
+  "category": "윤동주",
 "PoemTitle": "서시",
 "PoemWriter": "윤동주",
 "PoemText": "123123"
 },
 {
+  "category": "윤동주",
 "PoemTitle": "꿈",
 "PoemWriter": "123",
 "PoemText": "123"
 },
 {
+  "category": "테스트1",
 "PoemTitle": "추가",
 "PoemWriter": "123",
 "PoemText": "123"
 },
 {
+  "category": "테스트2",
 "PoemTitle": "now",
 "PoemWriter": "a11aaa",
 "PoemText": "22"
 },
 {
+  "category": "테스트3",
 "PoemTitle": "hellow",
 "PoemWriter": "newnew",
 "PoemText": "new"
 },
 {
+  "category": "테스트4",
 "PoemTitle": "abc",
 "PoemWriter": "abc",
 "PoemText": "abc"
 },
 {
+  "category": "테스트5",
 "PoemTitle": "aaa",
 "PoemWriter": "ccc",
 "PoemText": "ddd"
