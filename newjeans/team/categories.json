@@ -1,44 +1,44 @@
 [
-    {
-       "name": "NewJeans",
-       "name_kor": "뉴진스",
-       "preview1": "https://i.pinimg.com/474x/0c/ec/10/0cec10f77df01aad7d42e0ac9920ebbf.jpg",
-       "preview2": "https://i.pinimg.com/474x/14/17/9a/14179ada3c755146f36c4a9f73deb803.jpg",
-       "preview3": "https://i.pinimg.com/474x/16/90/b4/1690b4d449a0ffab005f8169a3894be8.jpg"
-     },
-     {
-        "name": "MINJI",
-        "name_kor": "민지",
-        "preview1": "https://i.pinimg.com/474x/14/65/5a/14655acf47c2d553bd229d71c9674b4d.jpg",
-        "preview2": "https://i.pinimg.com/474x/41/c5/7a/41c57ace8f1ab371b51053cc41c48560.jpg",
-        "preview3": "https://i.pinimg.com/474x/00/71/f0/0071f05dcdb50365dfbd71e791b61837.jpg"
-      },
-      {
-         "name": "HANNI",
-         "name_kor": "하니",
-         "preview1": "https://i.pinimg.com/474x/77/5f/80/775f80c3e1298194e093aebbb2620dbb.jpg",
-         "preview2": "https://i.pinimg.com/474x/2c/ca/6f/2cca6f871184ae670f258180ea6a6b76.jpg",
-         "preview3": "https://i.pinimg.com/474x/b6/0d/e6/b60de6abf2b35db9355720a8a3220ecc.jpg"
-       },
-       {
-          "name": "DANIELLE",
-          "name_kor": "다니엘",
-          "preview1": "https://i.pinimg.com/474x/92/b7/dd/92b7dd4e9a140388fc9d9f1d77513da7.jpg",
-          "preview2": "https://i.pinimg.com/474x/e3/4b/37/e34b371170c943094b089383af306264.jpg",
-          "preview3": "https://i.pinimg.com/474x/27/85/49/278549a146f091df3c7f0e8c6b30d4d5.jpg"
-        },
-	    {
-	       "name": "HAERIN",
-	       "name_kor": "해린",
-	       "preview1": "https://i.pinimg.com/474x/c7/35/1e/c7351ea820b1f98a9f9a1e2a92ca8451.jpg",
-	       "preview2": "https://i.pinimg.com/474x/d2/d7/9a/d2d79af12c01c18fa17f32dbe7489174.jpg",
-	       "preview3": "https://i.pinimg.com/474x/dd/b8/c2/ddb8c286d3c762b02ed94a918add3d1c.jpg"
-	     },
-	     {
-	        "name": "HYEIN",
-	        "name_kor": "혜인",
-	        "preview1": "https://i.pinimg.com/474x/15/fb/16/15fb16653fd49dd083faee3fab4af709.jpg",
-	        "preview2": "https://i.pinimg.com/474x/38/ee/83/38ee834095c325135cc6969990e45cc6.jpg",
-	        "preview3": "https://i.pinimg.com/474x/a5/e6/2e/a5e62ed50d87eeb6b472b345f6005a69.jpg"
-	      }
+  {
+    "name": "NewJeans",
+    "name_kor": "뉴진스",
+    "preview1": "https://i.pinimg.com/474x/0c/ec/10/0cec10f77df01aad7d42e0ac9920ebbf.jpg",
+    "preview2": "https://i.pinimg.com/474x/14/17/9a/14179ada3c755146f36c4a9f73deb803.jpg",
+    "preview3": "https://i.pinimg.com/474x/16/90/b4/1690b4d449a0ffab005f8169a3894be8.jpg"
+  },
+  {
+    "name": "MINJI",
+    "name_kor": "민지",
+    "preview1": "https://i.pinimg.com/474x/14/65/5a/14655acf47c2d553bd229d71c9674b4d.jpg",
+    "preview2": "https://i.pinimg.com/474x/41/c5/7a/41c57ace8f1ab371b51053cc41c48560.jpg",
+    "preview3": "https://i.pinimg.com/474x/00/71/f0/0071f05dcdb50365dfbd71e791b61837.jpg"
+  },
+  {
+    "name": "HANNI",
+    "name_kor": "하니",
+    "preview1": "https://i.pinimg.com/474x/77/5f/80/775f80c3e1298194e093aebbb2620dbb.jpg",
+    "preview2": "https://i.pinimg.com/474x/2c/ca/6f/2cca6f871184ae670f258180ea6a6b76.jpg",
+    "preview3": "https://i.pinimg.com/474x/b6/0d/e6/b60de6abf2b35db9355720a8a3220ecc.jpg"
+  },
+  {
+    "name": "DANIELLE",
+    "name_kor": "다니엘",
+    "preview1": "https://i.pinimg.com/474x/92/b7/dd/92b7dd4e9a140388fc9d9f1d77513da7.jpg",
+    "preview2": "https://i.pinimg.com/474x/e3/4b/37/e34b371170c943094b089383af306264.jpg",
+    "preview3": "https://i.pinimg.com/474x/27/85/49/278549a146f091df3c7f0e8c6b30d4d5.jpg"
+  },
+  {
+    "name": "HAERIN",
+    "name_kor": "해린",
+    "preview1": "https://i.pinimg.com/474x/c7/35/1e/c7351ea820b1f98a9f9a1e2a92ca8451.jpg",
+    "preview2": "https://i.pinimg.com/474x/d2/d7/9a/d2d79af12c01c18fa17f32dbe7489174.jpg",
+    "preview3": "https://i.pinimg.com/474x/dd/b8/c2/ddb8c286d3c762b02ed94a918add3d1c.jpg"
+  },
+  {
+    "name": "HYEIN",
+    "name_kor": "혜인",
+    "preview1": "https://i.pinimg.com/474x/15/fb/16/15fb16653fd49dd083faee3fab4af709.jpg",
+    "preview2": "https://i.pinimg.com/474x/38/ee/83/38ee834095c325135cc6969990e45cc6.jpg",
+    "preview3": "https://i.pinimg.com/474x/a5/e6/2e/a5e62ed50d87eeb6b472b345f6005a69.jpg"
+  }
 ]
