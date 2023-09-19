@@ -1,9 +1,16 @@
 [
     {
        "name": "LOONA",
-       "name_kor": "이달의 소녀",
+       "name_kor": "LOONA",
        "preview1": "https://i.pinimg.com/474x/00/bf/7f/00bf7f4e36655fd6b4842f66ad19582d.jpg",
        "preview2": "https://i.pinimg.com/474x/6e/18/91/6e18917608ca253ed51b0f0dc0d4e2db.jpg",
        "preview3": "https://i.pinimg.com/474x/95/4d/a4/954da489ea20115b040ad3f479132fe7.jpg"
-     }
+     },
+  {
+    "name": "MOON",
+    "name_kor": "MOON",
+    "preview1": "https://i.pinimg.com/474x/00/bf/7f/00bf7f4e36655fd6b4842f66ad19582d.jpg",
+    "preview2": "https://i.pinimg.com/474x/6e/18/91/6e18917608ca253ed51b0f0dc0d4e2db.jpg",
+    "preview3": "https://i.pinimg.com/474x/95/4d/a4/954da489ea20115b040ad3f479132fe7.jpg"
+  }
 ]
