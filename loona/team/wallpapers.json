@@ -1,5 +1,5 @@
 [
   { "name": "LOONA", "url": "https://i.pinimg.com/736x/dc/5b/46/dc5b4638cbd1f3d58bec4362068675a7.jpg", "categories": "LOONA", "premium": false },
-  { "name": "MOON", "url": "https://i.pinimg.com/736x/b9/04/12/b904122192a095bf614f94b8a1c7761f.jpg", "categories": "LOONA", "premium": false },
-  { "name": "LOONA, MOON", "url": "https://i.pinimg.com/736x/c4/11/0c/c4110cc26e4b136224532bb2856a0137.jpg", "categories": "LOONA", "premium": false }
+  { "name": "LOONA", "url": "https://i.pinimg.com/736x/b9/04/12/b904122192a095bf614f94b8a1c7761f.jpg", "categories": "MOON", "premium": false },
+  { "name": "LOONA", "url": "https://i.pinimg.com/736x/c4/11/0c/c4110cc26e4b136224532bb2856a0137.jpg", "categories": "LOONA, MOON", "premium": false }
 ]
