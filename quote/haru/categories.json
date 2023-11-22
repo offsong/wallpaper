@@ -1,0 +1,50 @@
+[
+	{
+			"name": "Life",
+			"name_kor": "인생",
+			"preview1": "https://i.pinimg.com/236x/a9/2c/7e/a92c7e32d26ceb17aefeb48d002e135e.jpg",
+			"preview2": "https://i.pinimg.com/236x/f8/79/2a/f8792a683417840f6e112af6dcb1812b.jpg",
+			"preview3": "https://i.pinimg.com/236x/9a/d6/ad/9ad6ade006446f1fa36b812c91c32184.jpg"
+	},
+	{
+			"name": "Love",
+			"name_kor": "사랑",
+			"preview1": "https://i.pinimg.com/236x/9a/d6/ad/9ad6ade006446f1fa36b812c91c32184.jpg",
+			"preview2": "https://i.pinimg.com/236x/e8/e1/91/e8e191baef0ee7fb9fdd03dd952a264b.jpg",
+			"preview3": "https://i.pinimg.com/236x/a4/8f/d7/a48fd775b1655e07623de1a7dc024bb6.jpg"
+	{
+			"name": "Motivation",
+			"name_kor": "동기 부여",
+			"preview1": "https://i.pinimg.com/236x/93/00/4f/93004f4c3cf9ae674f9bb7cc582f19dd.jpg",
+			"preview2": "https://i.pinimg.com/236x/8d/45/ea/8d45ea6c14ddc0dce5834ee561e4f2cc.jpg",
+			"preview3": "https://i.pinimg.com/236x/ef/6b/7b/ef6b7b522f6264327ce795d83f72afa8.jpg"
+	},
+	{
+			"name": "Positive",
+			"name_kor": "긍정",
+			"preview1": "https://i.pinimg.com/236x/94/b3/67/94b367d062cb7d4d4f01b7c821ce2696.jpg",
+			"preview2": "https://i.pinimg.com/236x/03/50/2a/03502ae9ebc0f2ef299570dc445c58bd.jpg",
+			"preview3": "https://i.pinimg.com/236x/73/26/c7/7326c782d7b550f12b59a0b2b2d3871c.jpg"
+	},
+	{
+			"name": "Friend",
+			"name_kor": "우정",
+			"preview1": "https://i.pinimg.com/236x/6c/c2/a9/6cc2a929c1ea235c66b924cae57691e7.jpg",
+			"preview2": "https://i.pinimg.com/236x/9e/5a/3d/9e5a3dee16e5c9f183ff3cd9620cda55.jpg",
+			"preview3": "https://i.pinimg.com/236x/4b/c0/31/4bc0318d2cdab482ee42d9f6dbacd739.jpg"
+	},
+	{
+			"name": "Success",
+			"name_kor": "성공",
+			"preview1": "https://i.pinimg.com/236x/eb/5f/bb/eb5fbb2ace8abd91d35e936b306784ad.jpg",
+			"preview2": "https://i.pinimg.com/236x/65/53/7c/65537cc22f355a494e6292b36396e9da.jpg",
+			"preview3": "https://i.pinimg.com/236x/52/96/b1/5296b10459b0737d5cb5510af640a58e.jpg"
+	},
+	{
+			"name": "Worry",
+			"name_kor": "걱정",
+			"preview1": "https://i.pinimg.com/236x/9c/a9/2d/9ca92dbe4288dcbcba5e3750d709f6c3.jpg",
+			"preview2": "https://i.pinimg.com/236x/4c/10/e4/4c10e42425c7c1711bd3e975776c822e.jpg",
+			"preview3": "https://i.pinimg.com/236x/0d/9b/93/0d9b9330767d309748bc1f88df271851.jpg"
+	}
+]
