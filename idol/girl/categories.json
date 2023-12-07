@@ -7,6 +7,13 @@
 		"preview3": "https://i.pinimg.com/474x/79/7b/0f/797b0f36bfdb2b3c90b40e4325e3206e.jpg"
 	},
 	{
+		"name": "SUMIN",
+		"name_kor": "수민",
+		"preview1": "https://i.pinimg.com/474x/e4/53/5c/e4535cad6412aed6d640f10e31cebac4.jpg",
+		"preview2": "https://i.pinimg.com/474x/5b/54/19/5b54196a50bacd459328011ecdcd832e.jpg",
+		"preview3": "https://i.pinimg.com/474x/1a/3c/63/1a3c63db289dc976aa0d5bb73d9ae8f0.jpg"
+	},
+	{
 		"name": "HAEWON",
 		"name_kor": "해원",
 		"preview1": "https://i.pinimg.com/474x/f4/2d/25/f42d25c981e80b838a669f784030806e.jpg",
@@ -19,5 +26,12 @@
 		"preview1": "https://i.pinimg.com/474x/b9/6f/03/b96f03ade3f614763a09fa9930232c16.jpg",
 		"preview2": "https://i.pinimg.com/474x/39/dd/f9/39ddf9f8d95dff28f5ba86b0c0cf8f31.jpg",
 		"preview3": "https://i.pinimg.com/474x/8b/9a/e6/8b9ae6e373677d655cb36ff64820c326.jpg"
+	},
+	{
+		"name": "TAEYEON",
+		"name_kor": "태연",
+		"preview1": "https://i.pinimg.com/474x/eb/6e/5d/eb6e5d28a86f09c8d0da30ddb098cd9d.jpg",
+		"preview2": "https://i.pinimg.com/474x/dd/6a/40/dd6a40ee78ceddf41b7bbc47b0dc2ad7.jpg",
+		"preview3": "https://i.pinimg.com/474x/e5/54/dc/e554dca0d628a815bba8601c208bd3de.jpg"
 	}
 ]
