@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BANG CHAN",
+		"name_kor": "방찬",
+		"preview1": "https://i.pinimg.com/474x/bf/63/78/bf6378938f0a46d84458d2af77665c99.jpg",
+		"preview2": "https://i.pinimg.com/474x/ba/07/2b/ba072b52cf70af5e4993149a39429e55.jpg",
+		"preview3": "https://i.pinimg.com/474x/e9/23/02/e92302d641817ff0536bd0baafadcb66.jpg"
+	},
+	{
+		"name": "S.COUPS",
+		"name_kor": "에스쿱스",
+		"preview1": "https://i.pinimg.com/474x/4c/6c/58/4c6c5894f23da5dc9a4e527a4616447d.jpg",
+		"preview2": "https://i.pinimg.com/474x/ca/24/b0/ca24b03ce800717b583c81f1b155f7d5.jpg",
+		"preview3": "https://i.pinimg.com/474x/22/17/1b/22171b5aaa130308d8cd159c105f8d33.jpg"
+	},
+	{
+		"name": "JUNGWON",
+		"name_kor": "정원",
+		"preview1": "https://i.pinimg.com/474x/05/8e/25/058e2574606fde31e9aa125fecbd37fd.jpg",
+		"preview2": "https://i.pinimg.com/474x/48/ee/a8/48eea8d85de830033cc6e48b026fae9d.jpg",
+		"preview3": "https://i.pinimg.com/474x/a9/7e/7d/a97e7d5bfa3068935c64499aa4b7c0c4.jpg"
+	},
+	{
+		"name": "HONGJOONG",
+		"name_kor": "홍중",
+		"preview1": "https://i.pinimg.com/474x/10/8a/e4/108ae4f0c18435e45f988e15324847e9.jpg",
+		"preview2": "https://i.pinimg.com/474x/d2/d9/3a/d2d93af5bd7877f9c74e17883942d1fc.jpg",
+		"preview3": "https://i.pinimg.com/474x/f8/86/98/f88698219f68b2366db65e62cdc9124a.jpg"
+	}
+]
