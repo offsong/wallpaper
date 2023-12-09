@@ -42,6 +42,13 @@
 		"preview3": "https://i.pinimg.com/474x/a1/fe/94/a1fe94673eb48244d0648c63fcaef0d4.jpg"
 	},
 	{
+		"name": "Doraemon",
+		"name_kor": "도라에몽",
+		"preview1": "https://i.pinimg.com/474x/b1/75/de/b175de80fb0f5ca9b5230f0b12f3c13c.jpg",
+		"preview2": "https://i.pinimg.com/474x/35/25/b2/3525b2f25504de9bc67ada92d7cdbcd7.jpg",
+		"preview3": "https://i.pinimg.com/474x/cc/b7/57/ccb75781739dba3b1820b83179b1720a.jpg"
+	},
+	{
 		"name": "Dr.Stone",
 		"name_kor": "닥터스톤",
 		"preview1": "https://i.pinimg.com/474x/83/8b/1f/838b1fde66a81f17462272abfddfb368.jpg",
@@ -131,6 +138,20 @@
 		"preview1": "https://i.pinimg.com/474x/d8/51/7e/d8517e81e93ba53cedae35b54a772943.jpg",
 		"preview2": "https://i.pinimg.com/474x/88/ea/60/88ea6036039ab47453c167f377e2d058.jpg",
 		"preview3": "https://i.pinimg.com/474x/8c/9d/65/8c9d65caef175f6e3a896f5235752805.jpg"
+	},
+	{
+		"name": "Shinchan",
+		"name_kor": "짱구는 못말려",
+		"preview1": "https://i.pinimg.com/474x/5b/aa/b9/5baab98508e2114df2fba74d38c7b993.jpg",
+		"preview2": "https://i.pinimg.com/474x/e5/08/78/e508780862fa9e7be33dcaabddb72c1e.jpg",
+		"preview3": "https://i.pinimg.com/474x/42/0b/16/420b1634581c91b50e1b154cd4aae964.jpg"
+	},
+	{
+		"name": "SpongeBob",
+		"name_kor": "스폰지밥",
+		"preview1": "https://i.pinimg.com/474x/0f/e6/ee/0fe6eeaff883a54330ab32c5fc559d9f.jpg",
+		"preview2": "https://i.pinimg.com/474x/01/86/7b/01867b25a8662d689031ee1f436644c1.jpg",
+		"preview3": "https://i.pinimg.com/474x/8a/57/d8/8a57d8f6a3e023a6fa2367fd6e742849.jpg"
 	},
 	{
 		"name": "SPY × FAMILY",
