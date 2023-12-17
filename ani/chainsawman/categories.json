@@ -5,5 +5,12 @@
     "preview1": "https://i.pinimg.com/474x/8d/4e/65/8d4e655191692d7f739db403a44b45d4.jpg",
     "preview2": "https://i.pinimg.com/474x/9a/26/0a/9a260af79a0ffc6cb2aab0b7e482ff3c.jpg",
     "preview3": "https://i.pinimg.com/474x/94/0b/de/940bdeac5972679b39a338c61190249e.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/bf/c1/8d/bfc18df68285305f144081728c93a73f.gif",
+    "preview2": "https://i.pinimg.com/originals/4a/6b/e9/4a6be9483ab12a1eba81621d44014657.gif",
+    "preview3": "https://i.pinimg.com/originals/89/17/2b/89172b2830d06023f11e1364cf9615d4.gif"
   }
 ]
