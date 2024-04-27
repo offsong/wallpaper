@@ -5,5 +5,40 @@
 	    "preview1": "https://i.pinimg.com/474x/a5/73/a9/a573a9ee42a76cea145efc0f91c7c5c5.jpg",
 	    "preview2": "https://i.pinimg.com/474x/3a/5d/46/3a5d4640885297232878a4282f32b6fe.jpg",
 	    "preview3": "https://i.pinimg.com/474x/61/b2/7a/61b27a0d8ab4bb8225eb4a201bc2ae57.jpg"
-	  }
+	  },
+	{
+		"name": "YUNAH",
+		"name_kor": "윤아",
+		"preview1": "https://i.pinimg.com/474x/96/4b/62/964b62e0e49d6ddb9c716502a5b9cad2.jpg",
+		"preview2": "https://i.pinimg.com/736x/39/e9/b0/39e9b061f0403839f3f42854dd94f1b5.jpg",
+		"preview3": "https://i.pinimg.com/474x/49/3f/83/493f83dcba5f841172f925878fa8ed94.jpg"
+	},
+	{
+		"name": "MINJU",
+		"name_kor": "민주",
+		"preview1": "https://i.pinimg.com/474x/9b/6a/3f/9b6a3fc1a21ea33ea5933d538675f3a3.jpg",
+		"preview2": "https://i.pinimg.com/474x/43/32/9e/43329e1034379f1cf1c687f71b71c3e0.jpg",
+		"preview3": "https://i.pinimg.com/474x/49/3f/52/493f521682d2ec1e0e0cb8ce45d89c95.jpg"
+	},
+	{
+		"name": "MOKA",
+		"name_kor": "모카",
+		"preview1": "https://i.pinimg.com/474x/02/a3/e7/02a3e70450e6ae949e077ef48e3a9bad.jpg",
+		"preview2": "https://i.pinimg.com/474x/d6/01/99/d6019957f521601b6ac9516070e58f82.jpg",
+		"preview3": "https://i.pinimg.com/474x/54/70/d1/5470d1798e322a72395861a8bf0a84e9.jpg"
+	},
+	{
+		"name": "WONHEE",
+		"name_kor": "원희",
+		"preview1": "https://i.pinimg.com/474x/50/55/2d/50552d69b4c1ae6cff19fd14816eb01c.jpg",
+		"preview2": "https://i.pinimg.com/474x/6d/fc/36/6dfc369f8600f29fdcb001ed7d65fec6.jpg",
+		"preview3": "https://i.pinimg.com/474x/93/ce/00/93ce00fb592da8e626d3a791f9d51a8b.jpg"
+	},
+	{
+		"name": "IROHA",
+		"name_kor": "이로하",
+		"preview1": "https://i.pinimg.com/474x/0e/77/13/0e7713eb5c3a440f611fba4ca86eec85.jpg",
+		"preview2": "https://i.pinimg.com/474x/cb/d4/2e/cbd42e4d1532a596a47d22480a3c1931.jpg",
+		"preview3": "https://i.pinimg.com/474x/78/f2/1e/78f21ed1526f0236d1748c6cc3d6af29.jpg"
+	}
 ]
