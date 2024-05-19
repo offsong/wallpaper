@@ -1,0 +1,24 @@
+[
+
+  {
+    "name": "SAKURA",
+    "name_kor": "사쿠라",
+    "preview1": "https://i.pinimg.com/474x/37/83/87/3783873198f488704bda043c95bdc41e.jpg",
+    "preview2": "https://i.pinimg.com/474x/e6/d4/8d/e6d48d0858b92f756cd9d6da6c65249a.jpg",
+    "preview3": "https://i.pinimg.com/474x/89/1b/f7/891bf7657dcc04bc30cc3ef32fd0880e.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/b1/0a/4a/b10a4a19b7521068443fb9f98f72e81d.gif",
+    "preview2": "https://i.pinimg.com/originals/36/f2/41/36f24156919ef35910b108d386d9faa6.gif",
+    "preview3": "https://i.pinimg.com/originals/96/77/f9/9677f941aec4bdcb361b1bcd71751804.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/e7/57/43/e75743b0ef667c80863950db682b2c6e.jpg",
+    "preview2": "https://i.pinimg.com/474x/81/36/49/813649b171a9f9907f1455973348bf30.jpg",
+    "preview3": "https://i.pinimg.com/474x/8b/88/bb/8b88bb044ec3b38015fc72ac5db880a0.jpg"
+  }
+]

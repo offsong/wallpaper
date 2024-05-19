@@ -1,0 +1,24 @@
+[
+
+  {
+    "name": "KIM CHAEWON",
+    "name_kor": "김채원",
+    "preview1": "https://i.pinimg.com/474x/3a/d2/34/3ad2343d30381444017939930266e7cd.jpg",
+    "preview2": "https://i.pinimg.com/474x/de/73/8e/de738e0b76f3a565f11b7c5b828d4daa.jpg",
+    "preview3": "https://i.pinimg.com/474x/79/7b/0f/797b0f36bfdb2b3c90b40e4325e3206e.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/d4/82/3d/d4823ddbdc5e52cc31dfdafa9fc7f326.gif",
+    "preview2": "https://i.pinimg.com/originals/3b/60/1a/3b601ac989a3815583016b94b3b24bd2.gif",
+    "preview3": "https://i.pinimg.com/originals/03/fb/1f/03fb1fe60175402e85e442c4cbd7e418.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/e4/f3/32/e4f332f674f9e2bbc78fbffb66723709.jpg",
+    "preview2": "https://i.pinimg.com/474x/be/7a/62/be7a620606c8076282e2733e271ce1c2.jpg",
+    "preview3": "https://i.pinimg.com/474x/35/e0/47/35e047eec3dff13b45c5721c6f562ae6.jpg"
+  }
+]
