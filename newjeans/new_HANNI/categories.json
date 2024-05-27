@@ -1,0 +1,23 @@
+[
+  {
+    "name": "HANNI",
+    "name_kor": "하니",
+    "preview1": "https://i.pinimg.com/474x/77/5f/80/775f80c3e1298194e093aebbb2620dbb.jpg",
+    "preview2": "https://i.pinimg.com/474x/2c/ca/6f/2cca6f871184ae670f258180ea6a6b76.jpg",
+    "preview3": "https://i.pinimg.com/474x/b6/0d/e6/b60de6abf2b35db9355720a8a3220ecc.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/fc/f9/6c/fcf96c85a276ae92eb8d06a5b5b81f1b.gif",
+    "preview2": "https://i.pinimg.com/originals/87/9e/9a/879e9a3771153541ba3baa178d4f79c7.gif",
+    "preview3": "https://i.pinimg.com/originals/f3/ab/5e/f3ab5ea3258ce0ff054691040be718e3.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/4f/c4/e7/4fc4e7e0c7a929552f986df3690f520b.jpg",
+    "preview2": "https://i.pinimg.com/474x/d0/28/fb/d028fb7731c7b7d01765d8ac56f013bf.jpg",
+    "preview3": "https://i.pinimg.com/474x/34/c7/e3/34c7e3c9d72a9578f989952d98ac1723.jpg"
+  }
+]

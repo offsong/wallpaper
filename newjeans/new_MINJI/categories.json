@@ -1,0 +1,24 @@
+[
+
+  {
+    "name": "MINJI",
+    "name_kor": "민지",
+    "preview1": "https://i.pinimg.com/474x/14/65/5a/14655acf47c2d553bd229d71c9674b4d.jpg",
+    "preview2": "https://i.pinimg.com/474x/41/c5/7a/41c57ace8f1ab371b51053cc41c48560.jpg",
+    "preview3": "https://i.pinimg.com/474x/00/71/f0/0071f05dcdb50365dfbd71e791b61837.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/77/b5/6a/77b56ac1fe46ee1552e62115322cafd1.gif",
+    "preview2": "https://i.pinimg.com/originals/6e/09/fe/6e09fee7367256fe0d7637d381e07c78.gif",
+    "preview3": "https://i.pinimg.com/originals/1f/08/69/1f0869a4404330ed9977d83fbca71827.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/10/93/26/109326dd48e966782de3bc3603ad46ad.jpg",
+    "preview2": "https://i.pinimg.com/474x/b8/b1/e3/b8b1e3d7b0b6ebc24a15d12bbfd4575c.jpg",
+    "preview3": "https://i.pinimg.com/474x/0b/90/19/0b9019d1d32026a4b70caece349c5a91.jpg"
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+       "name": "HAERIN",
+       "name_kor": "해린",
+       "preview1": "https://i.pinimg.com/474x/c7/35/1e/c7351ea820b1f98a9f9a1e2a92ca8451.jpg",
+       "preview2": "https://i.pinimg.com/474x/d2/d7/9a/d2d79af12c01c18fa17f32dbe7489174.jpg",
+       "preview3": "https://i.pinimg.com/474x/dd/b8/c2/ddb8c286d3c762b02ed94a918add3d1c.jpg"
+     },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/3a/fa/1d/3afa1d87ba5f95c0b80f77cb6c2f0a6f.gif",
+    "preview2": "https://i.pinimg.com/originals/7d/20/4d/7d204dda2a5fdfb1c9636e9f6e6be3bc.gif",
+    "preview3": "https://i.pinimg.com/originals/b6/a9/50/b6a950d0122108ae5574d161f59f80b0.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/23/b4/b6/23b4b65fc322c27a0dcbd6c0be7d7ffc.jpg",
+    "preview2": "https://i.pinimg.com/474x/68/75/df/6875df979ae24c2f9e68d288c5c3f537.jpg",
+    "preview3": "https://i.pinimg.com/474x/19/69/7e/19697e9970ac0395834e2850bbc87eca.jpg"
+  }
+]
