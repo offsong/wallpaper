@@ -1,0 +1,23 @@
+[
+    {
+      "name": "SANA",
+      "name_kor": "사나",
+      "preview1": "https://i.pinimg.com/474x/2f/ca/15/2fca15a98f20904fca2efd8b61805960.jpg",
+      "preview2": "https://i.pinimg.com/474x/b9/de/e7/b9dee7fbd6cedeb7b970d409f3b4c423.jpg",
+      "preview3": "https://i.pinimg.com/474x/88/e0/95/88e0951b870b000b8c5c7cdeafe39a9f.jpg"
+    },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/b3/28/64/b3286484eed91e33e43fc5de7697f2f5.gif",
+    "preview2": "https://i.pinimg.com/originals/9f/98/f0/9f98f04ebae3f5d2c95b074603062531.gif",
+    "preview3": "https://i.pinimg.com/originals/6d/d1/ab/6dd1ab808eb1c0d54577d33f1ec1a1e3.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/d5/4c/83/d54c8322eb2678113443e34aa04ce8b4.jpg",
+    "preview2": "https://i.pinimg.com/474x/2a/db/10/2adb10449d67d4d83b0b04038d23068d.jpg",
+    "preview3": "https://i.pinimg.com/474x/b6/05/65/b60565a5cb1f31714567649ce243a786.jpg"
+  }
+]
