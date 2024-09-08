@@ -7,6 +7,13 @@
 	    "preview3": "https://i.pinimg.com/474x/7d/c0/b4/7dc0b453bb64c12f927860a7930a526e.jpg"
 	  },
 	{
+		"name": "icon",
+		"name_kor": "아이콘",
+		"preview1": "https://i.pinimg.com/564x/84/a9/8b/84a98b45c682cb5a27d2e36d9f2a6d5c.jpg",
+		"preview2": "https://i.pinimg.com/736x/16/88/fe/1688fe12de1b7a86c24d3b7fc241cba5.jpg",
+		"preview3": "https://i.pinimg.com/564x/12/79/e4/1279e4c867760e5b1147c165ae24c804.jpg"
+	},
+	{
 		"name": "SUNGHO",
 		"name_kor": "성호",
 		"preview1": "https://i.pinimg.com/474x/7f/0f/32/7f0f32a2a24e70fcc22825ec771e2340.jpg",
