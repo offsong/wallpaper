@@ -1,0 +1,16 @@
+[
+	{
+	    "name": "SUNOO",
+	    "name_kor": "선우",
+	    "preview1": "https://i.pinimg.com/474x/68/ad/4e/68ad4e403491b5d3e841bf15ea687267.jpg",
+	    "preview2": "https://i.pinimg.com/474x/1f/81/65/1f8165544b4108f790615bcf07193929.jpg",
+	    "preview3": "https://i.pinimg.com/474x/2d/f7/88/2df7885e3e5ba2e84dad1ab667bdfd1e.jpg"
+	  },
+	{
+		"name": "gif",
+		"name_kor": "gif",
+		"preview1": "https://i.pinimg.com/originals/3b/db/39/3bdb39a2c1e9dd31d15dfc05a9523dfe.gif",
+		"preview2": "https://i.pinimg.com/originals/9a/c7/c9/9ac7c9d2f38daaeb4dc3938c1b79b0ce.gif",
+		"preview3": "https://i.pinimg.com/originals/3f/61/58/3f6158efdaffb12290b7a2dec3c5ef3a.gif"
+	}
+]
