@@ -1,0 +1,16 @@
+[
+        {
+          "name": "VERNON",
+          "name_kor": "버논",
+          "preview1": "https://i.pinimg.com/474x/14/cf/a8/14cfa88390a14ca4b81f0beea95a7a47.jpg",
+          "preview2": "https://i.pinimg.com/474x/e3/2e/a5/e32ea5252322be95af2c406f25b79289.jpg",
+          "preview3": "https://i.pinimg.com/474x/01/40/fe/0140feef05797e9ead6b78ab9c099d27.jpg"
+        },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/47/de/e5/47dee5fca6bb9bf5efcb70fe84b87320.gif",
+    "preview2": "https://i.pinimg.com/originals/2b/71/19/2b71192ba23606961a81a396e6dcc37b.gif",
+    "preview3": "https://i.pinimg.com/originals/64/bb/ce/64bbceeee60d19358eb9ccfeb72c8eab.gif"
+  }
+]

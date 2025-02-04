@@ -1,0 +1,65 @@
+[
+  {
+    "name": "NMIXX",
+    "name_kor": "엔믹스",
+    "preview1": "https://i.pinimg.com/474x/08/58/74/0858741c00983edf7dc78f0c3973068e.jpg",
+    "preview2": "https://i.pinimg.com/474x/24/f0/0c/24f00cbc0b5035bf556180bc5cc1d243.jpg",
+    "preview3": "https://i.pinimg.com/474x/a3/69/0e/a3690e400d749ce52d2111122d82aabb.jpg"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/a5/73/e4/a573e43e4fd5393c9c1c96a89410431d.jpg",
+    "preview2": "https://i.pinimg.com/474x/0d/dc/93/0ddc93a1913cc256f9e3cd1e3ad597b5.jpg",
+    "preview3": "https://i.pinimg.com/474x/11/70/e3/1170e30cbd480bf235c3e4e05219bf0a.jpg"
+  },
+  {
+    "name": "LILY",
+    "name_kor": "릴리",
+    "preview1": "https://i.pinimg.com/474x/80/13/9b/80139be63069eb4224e16b2dec2c4be6.jpg",
+    "preview2": "https://i.pinimg.com/474x/1b/6f/0c/1b6f0cc5d8f82ec58367c972774df337.jpg",
+    "preview3": "https://i.pinimg.com/474x/60/6a/f3/606af37db32d450e332ffaa2e24e797c.jpg"
+  },
+    {
+    "name": "HAEWON",
+    "name_kor": "해원",
+    "preview1": "https://i.pinimg.com/474x/f4/2d/25/f42d25c981e80b838a669f784030806e.jpg",
+    "preview2": "https://i.pinimg.com/474x/68/03/f9/6803f96b66853d4971acff760e8436b8.jpg",
+    "preview3": "https://i.pinimg.com/474x/c5/f8/7c/c5f87c0e605cdd0e95eb274700c71edb.jpg"
+  },
+     {
+    "name": "SULLYOON",
+    "name_kor": "설윤",
+    "preview1": "https://i.pinimg.com/474x/ba/bf/46/babf46a5dfa56e662c89ea2cab5bf4cf.jpg",
+    "preview2": "https://i.pinimg.com/474x/27/b3/7f/27b37fc3bf7a377170910ca2bde943e9.jpg",
+    "preview3": "https://i.pinimg.com/474x/d8/d4/e7/d8d4e7a7a0404da70336fd2ce3e39fc4.jpg"
+  },
+  {
+    "name": "BAE",
+    "name_kor": "배이",
+    "preview1": "https://i.pinimg.com/474x/78/aa/59/78aa59903839b8411396cc86151c01a1.jpg",
+    "preview2": "https://i.pinimg.com/474x/d7/99/6e/d7996ef1dfa3577f2b22539af9216f40.jpg",
+    "preview3": "https://i.pinimg.com/474x/83/e1/14/83e114be759f00add3a1c50864aa8401.jpg"
+  },
+    {
+    "name": "JIWOO",
+    "name_kor": "지우",
+    "preview1": "https://i.pinimg.com/474x/52/c3/f8/52c3f8185107c45d6c62a5d56f8cb6b5.jpg",
+    "preview2": "https://i.pinimg.com/474x/29/0f/77/290f772b55ccbd3811f2cf14d8c9715f.jpg",
+    "preview3": "https://i.pinimg.com/474x/4b/8c/19/4b8c1907169712899e24596b0f3f52ff.jpg"
+  },
+      {
+    "name": "KYUJIN",
+    "name_kor": "규진",
+    "preview1": "https://i.pinimg.com/474x/9b/1d/6a/9b1d6a80ab985682ad14244f0008ec68.jpg",
+    "preview2": "https://i.pinimg.com/474x/4d/b6/4c/4db64ca0c482b84af878c37b12058205.jpg",
+    "preview3": "https://i.pinimg.com/474x/08/6c/46/086c46b1afbdb404f4ba71ca9eaf1b1c.jpg"
+  },
+       {
+    "name": "JINNI",
+    "name_kor": "지니",
+    "preview1": "https://i.pinimg.com/474x/d1/70/5a/d1705a8df5acd7ea6c752e811cea0e97.jpg",
+    "preview2": "https://i.pinimg.com/474x/68/ff/00/68ff00ea4eefece02cef5937ca6d081c.jpg",
+    "preview3": "https://i.pinimg.com/474x/00/20/3d/00203df6fc261691860cfc282abdf712.jpg"
+  }
+]

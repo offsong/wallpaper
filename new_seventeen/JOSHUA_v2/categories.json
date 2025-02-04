@@ -1,0 +1,23 @@
+[
+        {
+       "name": "JOSHUA",
+       "name_kor": "조슈아",
+       "preview1": "https://i.pinimg.com/474x/35/bc/2c/35bc2c748796b8025013abd32e88c1ba.jpg",
+       "preview2": "https://i.pinimg.com/474x/47/cf/3b/47cf3bde01baf079264b5fe0c439fefa.jpg",
+       "preview3": "https://i.pinimg.com/474x/c9/5e/b8/c95eb8b4dbf82d9124db1a0754361f22.jpg"
+     },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/ff/f6/12/fff61223d8cd27b5c6721baa88960dc9.gif",
+    "preview2": "https://i.pinimg.com/originals/aa/a0/57/aaa0576cc9a56426abbe0b19cae15df6.gif",
+    "preview3": "https://i.pinimg.com/originals/59/8d/0b/598d0be8208006e11ea723d67a065557.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/1e/c0/69/1ec069cd8e3ce01f9fd097b1b08b0726.jpg",
+    "preview2": "https://i.pinimg.com/474x/c7/62/ea/c762ead6533a6810a71de0a97759be5b.jpg",
+    "preview3": "https://i.pinimg.com/474x/bf/63/b8/bf63b8e03324e8d635fb506897167b2b.jpg"
+  }
+]
