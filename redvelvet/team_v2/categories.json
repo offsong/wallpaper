@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Red Velvet",
+    "name_kor": "레드벨벳",
+    "preview1": "https://i.pinimg.com/474x/03/2c/76/032c76fb63ce4f1fc741cbe190dae83d.jpg",
+    "preview2": "https://i.pinimg.com/474x/b4/c8/9c/b4c89cf50aa1395bd557a77ffafe2753.jpg",
+    "preview3": "https://i.pinimg.com/474x/c6/d6/35/c6d635d210f9639dfdfca74f55b74e99.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/f8/ee/5c/f8ee5c53e9915e69f4cc96ac5993f307.gif",
+    "preview2": "https://i.pinimg.com/originals/92/c1/ec/92c1ecf2d998d4c07cca3f23ecba0838.gif",
+    "preview3": "https://i.pinimg.com/originals/dc/76/bd/dc76bd193bc4be86004653b608d7ecc1.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/11/86/06/118606f963cb6835d6d38c1f628cbd6b.jpg",
+    "preview2": "https://i.pinimg.com/474x/fa/67/d4/fa67d47aaf378835fe91acef601a9dd4.jpg",
+    "preview3": "https://i.pinimg.com/474x/71/c0/13/71c013e6947b4b7278ce88ff55abcff0.jpg"
+  },
+  {
+    "name": "IRENE",
+    "name_kor": "아이린",
+    "preview1": "https://i.pinimg.com/474x/7a/a6/5c/7aa65ca0e1a3e90143d595b531627bc5.jpg",
+    "preview2": "https://i.pinimg.com/474x/55/c5/56/55c556df6b43c9d7cb65f4301802f7d3.jpg",
+    "preview3": "https://i.pinimg.com/474x/5b/fd/79/5bfd790e6e291521210bf525cf37c1ca.jpg"
+  },
+    {
+    "name": "SEULGI",
+    "name_kor": "슬기",
+    "preview1": "https://i.pinimg.com/474x/d8/0f/10/d80f1060720f3ef9a9a9c8ed858ec80f.jpg",
+    "preview2": "https://i.pinimg.com/474x/64/46/fe/6446fe6c04db1e58b6459f681fca9ace.jpg",
+    "preview3": "https://i.pinimg.com/474x/81/71/5e/81715ec47880ea4155399844d8a907bb.jpg"
+  },
+     {
+    "name": "WENDY",
+    "name_kor": "웬디",
+    "preview1": "https://i.pinimg.com/474x/00/18/d4/0018d41927a762fd375a7c83d474c62b.jpg",
+    "preview2": "https://i.pinimg.com/474x/e0/90/0c/e0900cf637cf4edd9313aa4c404d4330.jpg",
+    "preview3": "https://i.pinimg.com/474x/6f/bc/7e/6fbc7ef77abc6d9f90aa958d273d5b65.jpg"
+  },
+  {
+    "name": "JOY",
+    "name_kor": "조이",
+    "preview1": "https://i.pinimg.com/474x/00/8d/b2/008db20ab9f63c1957e821ebcdba6905.jpg",
+    "preview2": "https://i.pinimg.com/474x/02/e5/6b/02e56bb5087a1b03e6ea8fe788cfdcfa.jpg",
+    "preview3": "https://i.pinimg.com/474x/62/7a/9f/627a9f57211080da552d136c1b9a925c.jpg"
+  },
+    {
+    "name": "YERI",
+    "name_kor": "예리",
+    "preview1": "https://i.pinimg.com/474x/f7/41/21/f7412189c79bb52db6e934eccb1c4121.jpg",
+    "preview2": "https://i.pinimg.com/474x/bd/f3/8a/bdf38a2af63d9ff96affd8ef03aa2b05.jpg",
+    "preview3": "https://i.pinimg.com/474x/b5/e5/0c/b5e50cf6927608814b81e49b4b761981.jpg"
+  }
+]
