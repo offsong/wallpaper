@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Stray Kids",
+    "name_kor": "스트레이 키즈",
+    "preview1": "https://i.pinimg.com/474x/1c/73/d8/1c73d8ffdceddcf81de7a4bfdaa5d448.jpg",
+    "preview2": "https://i.pinimg.com/474x/80/3a/fc/803afc8932f01ad9d1a406d6a75b4ff5.jpg",
+    "preview3": "https://i.pinimg.com/474x/ed/0b/c6/ed0bc6b65dc173e278590c4f03f9bd18.jpg"
+  },
+   {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/cd/a5/d3/cda5d33060b6ee442ce0529f63839495.gif",
+    "preview2": "https://i.pinimg.com/originals/af/c9/de/afc9deb3667984d374a8639a34796c8b.gif",
+    "preview3": "https://i.pinimg.com/originals/99/e3/e1/99e3e19537718348f708304efc0c8405.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/3a/a8/c0/3aa8c05aeec9108cfb0ea66bdd4a3804.jpg",
+    "preview2": "https://i.pinimg.com/474x/21/c9/78/21c97897afcba921e289697b0610746c.jpg",
+    "preview3": "https://i.pinimg.com/474x/c6/47/5f/c6475f0f42e14b4906cbe6a482d391c1.jpg"
+  },
+  {
+    "name": "BANG CHAN",
+    "name_kor": "방찬",
+    "preview1": "https://i.pinimg.com/474x/bf/63/78/bf6378938f0a46d84458d2af77665c99.jpg",
+    "preview2": "https://i.pinimg.com/474x/ba/07/2b/ba072b52cf70af5e4993149a39429e55.jpg",
+    "preview3": "https://i.pinimg.com/474x/e9/23/02/e92302d641817ff0536bd0baafadcb66.jpg"
+  },
+    {
+    "name": "LEE KNOW",
+    "name_kor": "리노",
+    "preview1": "https://i.pinimg.com/474x/36/ba/fe/36bafeb928141855b4a3624b4aaeb958.jpg",
+    "preview2": "https://i.pinimg.com/474x/f1/eb/ca/f1ebcaccc395dfca225360d11177aad8.jpg",
+    "preview3": "https://i.pinimg.com/474x/14/c6/be/14c6beaacbd1f5f8437d9918f4e1e056.jpg"
+  },
+     {
+    "name": "CHANGBIN",
+    "name_kor": "창빈",
+    "preview1": "https://i.pinimg.com/474x/16/aa/a9/16aaa9a5b55715c6b6c7e89112ee20a0.jpg",
+    "preview2": "https://i.pinimg.com/474x/32/bd/47/32bd47d0e7ed7417cd91725dd47d9a82.jpg",
+    "preview3": "https://i.pinimg.com/474x/a7/3d/c8/a73dc89871cf66b42f2862c662bf25e5.jpg"
+  },
+  {
+    "name": "HYUNJIN",
+    "name_kor": "현진",
+    "preview1": "https://i.pinimg.com/474x/ac/74/63/ac746370b26f60a68c9680ca355d57ca.jpg",
+    "preview2": "https://i.pinimg.com/474x/bc/6c/c4/bc6cc462aaa10a581a58d95e439617e8.jpg",
+    "preview3": "https://i.pinimg.com/474x/d1/3e/d4/d13ed438e88f164bc35d0dda9939fd47.jpg"
+  },
+    {
+    "name": "HAN",
+    "name_kor": "한",
+    "preview1": "https://i.pinimg.com/474x/7a/16/cb/7a16cbe3f3725f32b7a06bd9c20e600c.jpg",
+    "preview2": "https://i.pinimg.com/474x/d7/df/3c/d7df3cf2a136ea298e03ca67a2b6c0f5.jpg",
+    "preview3": "https://i.pinimg.com/474x/7a/b0/89/7ab089b2553eb24f6f8bbc8d30d00b42.jpg"
+  },
+      {
+    "name": "FELIX",
+    "name_kor": "필릭스",
+    "preview1": "https://i.pinimg.com/474x/1e/18/d4/1e18d4ff6e89c248c589ffd78ad1495e.jpg",
+    "preview2": "https://i.pinimg.com/474x/db/25/33/db253326646b6d99492517c3001f0561.jpg",
+    "preview3": "https://i.pinimg.com/474x/65/04/68/6504686e18b20f0e3547701c545850ac.jpg"
+  },
+  {
+    "name": "SEUNGMIN",
+    "name_kor": "승민",
+    "preview1": "https://i.pinimg.com/474x/51/a0/f8/51a0f8c2f5371c08ec33a383e0a970df.jpg",
+    "preview2": "https://i.pinimg.com/474x/f1/4c/dd/f14cdd4cf332fd4e9241eaaf8d55269b.jpg",
+    "preview3": "https://i.pinimg.com/474x/38/2c/10/382c102e9c13013007eb334944907b07.jpg"
+  },
+  {
+    "name": "I.N",
+    "name_kor": "아이엔",
+    "preview1": "https://i.pinimg.com/474x/a6/a3/97/a6a3973d75bdba4d04bbba9cd635ffd3.jpg",
+    "preview2": "https://i.pinimg.com/474x/af/24/5b/af245b879d181ac7f3eaa8b0d88fd379.jpg",
+    "preview3": "https://i.pinimg.com/474x/fc/73/2c/fc732c40f975054848092d888bc2d23d.jpg"
+  }
+]
