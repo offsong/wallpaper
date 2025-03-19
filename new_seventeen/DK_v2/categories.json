@@ -1,0 +1,16 @@
+[
+        {
+          "name": "DK",
+          "name_kor": "도겸",
+          "preview1": "https://i.pinimg.com/474x/44/5d/73/445d73992c71d35e35e87ee34192ffb8.jpg",
+          "preview2": "https://i.pinimg.com/474x/48/b5/64/48b56403f668f0726a863cdd679efa76.jpg",
+          "preview3": "https://i.pinimg.com/474x/42/4e/0a/424e0a7b5c339afa811264b0c7fade66.jpg"
+        },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/da/cf/63/dacf6374b2d4795548369672aa3570d8.gif",
+    "preview2": "https://i.pinimg.com/originals/44/74/f4/4474f419d3e8498e8eb9e7d0d1150ce4.gif",
+    "preview3": "https://i.pinimg.com/originals/40/9f/78/409f78cf109279fdc61c5bb28f3fa121.gif"
+  }
+]
