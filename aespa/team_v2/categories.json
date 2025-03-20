@@ -1,0 +1,51 @@
+[
+  {
+    "name": "aespa",
+    "name_kor": "에스파",
+    "preview1": "https://i.pinimg.com/474x/e6/61/43/e6614364c356210c85baa7ea3a26bf2e.jpg",
+    "preview2": "https://i.pinimg.com/474x/76/08/39/760839c57ba91197550afe3096f299bc.jpg",
+    "preview3": "https://i.pinimg.com/474x/0d/9e/37/0d9e370c79a3382acc24b5995da93dbf.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/f3/6a/8b/f36a8bcc143605b920f2554bd559eae4.gif",
+    "preview2": "https://i.pinimg.com/originals/89/e5/69/89e569148f69cbfb9442b8a8f5ccf75b.gif",
+    "preview3": "https://i.pinimg.com/originals/65/ce/b8/65ceb833834d18783941ffa1fedb7a5b.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/c1/6b/ea/c16bea6a99d2c6c240de8be7a4ae2f55.jpg",
+    "preview2": "https://i.pinimg.com/474x/e8/79/c4/e879c467327a5f044fd73dfa7e1dfde5.jpg",
+    "preview3": "https://i.pinimg.com/474x/f4/88/a2/f488a2dd299cb9fb7a84df1aba1f6a06.jpg"
+  },
+  {
+    "name": "KARINA",
+    "name_kor": "카리나",
+    "preview1": "https://i.pinimg.com/474x/b9/6f/03/b96f03ade3f614763a09fa9930232c16.jpg",
+    "preview2": "https://i.pinimg.com/474x/39/dd/f9/39ddf9f8d95dff28f5ba86b0c0cf8f31.jpg",
+    "preview3": "https://i.pinimg.com/474x/8b/9a/e6/8b9ae6e373677d655cb36ff64820c326.jpg"
+  },
+  {
+    "name": "WINTER",
+    "name_kor": "윈터",
+    "preview1": "https://i.pinimg.com/474x/4a/44/f4/4a44f41f5dbfa879f6f4cd5574c86ad0.jpg",
+    "preview2": "https://i.pinimg.com/474x/18/db/2c/18db2c9f2f5ee7c611c499a62d5e9663.jpg",
+    "preview3": "https://i.pinimg.com/474x/f2/c1/20/f2c120635ba1ed526e6280b5019f5e86.jpg"
+  },
+  {
+    "name": "GISELLE",
+    "name_kor": "지젤",
+    "preview1": "https://i.pinimg.com/474x/5a/ae/b8/5aaeb8e2a76ec271e218856ac07d24c8.jpg",
+    "preview2": "https://i.pinimg.com/474x/c4/c3/ad/c4c3ad8af70fd5b3d513b570f63e8d70.jpg",
+    "preview3": "https://i.pinimg.com/474x/d8/50/6f/d8506f519f462bfca27d58158395de7f.jpg"
+  },
+  {
+    "name": "NINGNING",
+    "name_kor": "닝닝",
+    "preview1": "https://i.pinimg.com/474x/7f/8e/bb/7f8ebb7df620204cab37db5088f9d906.jpg",
+    "preview2": "https://i.pinimg.com/474x/58/60/08/58600822a0739089c60f5f30c8f4fa5e.jpg",
+    "preview3": "https://i.pinimg.com/474x/63/5f/8a/635f8ac6d6f1847f1f422fdbd9cc6644.jpg"
+  }
+]
