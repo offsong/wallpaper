@@ -1,0 +1,16 @@
+[
+	{
+	    "name": "MINA",
+	    "name_kor": "미나",
+	    "preview1": "https://i.pinimg.com/474x/92/dd/7b/92dd7b75dc868d444d66e84053d0380a.jpg",
+	    "preview2": "https://i.pinimg.com/474x/f2/83/33/f28333dfccab8794d8b5c943b026b31e.jpg",
+	    "preview3": "https://i.pinimg.com/474x/9b/e9/bd/9be9bd63fc33af77bcf7fcdc44aa9129.jpg"
+	  },
+	{
+		"name": "icon",
+		"name_kor": "아이콘",
+		"preview1": "https://i.pinimg.com/736x/a2/a1/98/a2a1986d85f0bdb2877b71f4f4a13ce9.jpg",
+		"preview2": "https://i.pinimg.com/736x/80/75/8d/80758d0fef73702d5e4ef9f248d2f325.jpg",
+		"preview3": "https://i.pinimg.com/736x/98/2e/68/982e68c16882ce4771574e6a38ddbc9c.jpg"
+	}
+]
