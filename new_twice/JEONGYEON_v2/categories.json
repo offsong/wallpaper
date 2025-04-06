@@ -1,0 +1,23 @@
+[
+    {
+      "name": "JEONGYEON",
+      "name_kor": "정연",
+      "preview1": "https://i.pinimg.com/474x/34/48/47/344847634c83150985c116fbd2f397c6.jpg",
+      "preview2": "https://i.pinimg.com/474x/76/ae/d7/76aed724093865d6b8ed59859d132eeb.jpg",
+      "preview3": "https://i.pinimg.com/474x/52/7f/ad/527fad0b5fbdc09c8115eeb7882bcd58.jpg"
+    },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/b7/9c/54/b79c5428da6a957d462ecc3611bbdf7e.gif",
+    "preview2": "https://i.pinimg.com/originals/4c/7f/6e/4c7f6e50dccdeb50a003f8e00e883ce4.gif",
+    "preview3": "https://i.pinimg.com/originals/5a/d2/db/5ad2db7f37eff3408fdd70492efaabb0.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/58/28/93/5828938df9e4302b43e3bd79b26043de.jpg",
+    "preview2": "https://i.pinimg.com/474x/d1/2d/88/d12d88029a3e700533caf58ffb7c891c.jpg",
+    "preview3": "https://i.pinimg.com/474x/26/42/a5/2642a52d768ce5b779b9ce9f00f7f737.jpg"
+  }
+]

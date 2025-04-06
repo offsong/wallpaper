@@ -1,0 +1,23 @@
+[
+    {
+      "name": "NAYEON",
+      "name_kor": "나연",
+      "preview1": "https://i.pinimg.com/474x/1f/34/f4/1f34f44d4aaec182b8d351fd18333fa9.jpg",
+      "preview2": "https://i.pinimg.com/474x/2f/b9/ad/2fb9ad548c305ecff5ecc9bf48a03b93.jpg",
+      "preview3": "https://i.pinimg.com/474x/88/ac/f0/88acf0177e948227251e1bae53114fa9.jpg"
+    },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/e0/b1/10/e0b110a4988494f45db9c0438fc75496.gif",
+    "preview2": "https://i.pinimg.com/originals/eb/61/ed/eb61ed489bcc1c5b2a9e779126f5f49b.gif",
+    "preview3": "https://i.pinimg.com/originals/cc/5b/b4/cc5bb442ec304d3d81b1f68892ceae3c.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/0d/c9/b3/0dc9b31461ce6fd75ef5ac4c63b4d1ef.jpg",
+    "preview2": "https://i.pinimg.com/474x/c9/11/70/c91170902dc1d7408c1903f4ec8230ab.jpg",
+    "preview3": "https://i.pinimg.com/474x/fe/a8/31/fea831d68d270f65044027bde59de3df.jpg"
+  }
+]
