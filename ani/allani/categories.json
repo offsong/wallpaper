@@ -1,0 +1,219 @@
+[
+	{
+	    "name": "RANDOM",
+	    "name_kor": "RANDOM",
+	    "preview1": "https://i.pinimg.com/474x/7b/e6/ce/7be6cedefae44493c673c483d9414ef8.jpg",
+	    "preview2": "https://i.pinimg.com/474x/d4/42/15/d44215853c16985823045d839a03fd02.jpg",
+	    "preview3": "https://i.pinimg.com/474x/77/67/ed/7767ed4ec0a2f3fad97dd7e1510174ef.jpg"
+	  },
+	{
+		"name": "Attack on Titan",
+		"name_kor": "진격의 거인",
+		"preview1": "https://i.pinimg.com/474x/bf/52/96/bf5296cde170cc23d3006ed5ed21b6a7.jpg",
+		"preview2": "https://i.pinimg.com/474x/ed/6a/d4/ed6ad4eb2d060abb24a9a972f922a537.jpg",
+		"preview3": "https://i.pinimg.com/474x/bf/44/45/bf44457bbfd405014395bcbb86317c4d.jpg"
+	},
+	{
+		"name": "BLACK CLOVER",
+		"name_kor": "블랙 클로버",
+		"preview1": "https://i.pinimg.com/474x/de/da/11/deda1113eb6c1fdf40e2e000c13014b1.jpg",
+		"preview2": "https://i.pinimg.com/474x/36/90/3f/36903fbdf8815287224d26bca27436fd.jpg",
+		"preview3": "https://i.pinimg.com/474x/85/fe/24/85fe2405e03197034d1aa679d415356e.jpg"
+	},
+	{
+		"name": "Cardcaptor Sakura",
+		"name_kor": "카드캡터 사쿠라",
+		"preview1": "https://i.pinimg.com/474x/f5/41/4b/f5414be6b9942d97f307748b1dd20e03.jpg",
+		"preview2": "https://i.pinimg.com/474x/14/72/78/147278ebfa27115588ef86b9811b7797.jpg",
+		"preview3": "https://i.pinimg.com/474x/d5/53/59/d553596c6e7068d69774f0537712f83d.jpg"
+	},
+	{
+		"name": "Chainsaw Man",
+		"name_kor": "체인소 맨",
+		"preview1": "https://i.pinimg.com/474x/8d/4e/65/8d4e655191692d7f739db403a44b45d4.jpg",
+		"preview2": "https://i.pinimg.com/474x/9a/26/0a/9a260af79a0ffc6cb2aab0b7e482ff3c.jpg",
+		"preview3": "https://i.pinimg.com/474x/94/0b/de/940bdeac5972679b39a338c61190249e.jpg"
+	},
+	{
+		"name": "Demon Slayer",
+		"name_kor": "귀멸의 칼날",
+		"preview1": "https://i.pinimg.com/474x/9c/5a/a9/9c5aa90d586be84029498bd48a0b0020.jpg",
+		"preview2": "https://i.pinimg.com/474x/2f/7a/23/2f7a2301cc7bbea9b5c3744124f9c3dc.jpg",
+		"preview3": "https://i.pinimg.com/474x/a1/fe/94/a1fe94673eb48244d0648c63fcaef0d4.jpg"
+	},
+	{
+		"name": "Doraemon",
+		"name_kor": "도라에몽",
+		"preview1": "https://i.pinimg.com/474x/b1/75/de/b175de80fb0f5ca9b5230f0b12f3c13c.jpg",
+		"preview2": "https://i.pinimg.com/474x/35/25/b2/3525b2f25504de9bc67ada92d7cdbcd7.jpg",
+		"preview3": "https://i.pinimg.com/474x/cc/b7/57/ccb75781739dba3b1820b83179b1720a.jpg"
+	},
+	{
+		"name": "Dr.Stone",
+		"name_kor": "닥터스톤",
+		"preview1": "https://i.pinimg.com/474x/83/8b/1f/838b1fde66a81f17462272abfddfb368.jpg",
+		"preview2": "https://i.pinimg.com/474x/d2/39/c5/d239c53fcdec0b4250485f658695955d.jpg",
+		"preview3": "https://i.pinimg.com/474x/a0/2a/76/a02a76a870343738d0e9586b0681b138.jpg"
+	},
+	{
+		"name": "Inuyasha",
+		"name_kor":"이누야샤",
+		"preview1": "https://i.pinimg.com/474x/88/c9/0a/88c90a6c097886b421c7f67a36f53b6b.jpg",
+		"preview2": "https://i.pinimg.com/474x/99/21/da/9921daf77eeda4542a973d2ee33292e4.jpg",
+		"preview3": "https://i.pinimg.com/474x/62/34/d9/6234d95de28a95df84f0b469a2ea7f59.jpg"
+	},
+	{
+		"name": "Evangelion",
+		"name_kor": "에반게리온",
+		"preview1": "https://i.pinimg.com/474x/66/0a/2a/660a2a1c84cbfd36089def2c9f5a262c.jpg",
+		"preview2": "https://i.pinimg.com/474x/e5/ac/f0/e5acf02fa6ef2d7fea880306b9115523.jpg",
+		"preview3": "https://i.pinimg.com/474x/20/13/b7/2013b773b8fe5baeec506870beb143b8.jpg"
+	},
+	{
+		"name": "Fire Force",
+		"name_kor": "불꽃 소방대",
+		"preview1": "https://i.pinimg.com/736x/c8/45/56/c8455654d22ccf037a5fc9c4efcf3a76.jpg",
+		"preview2": "https://i.pinimg.com/736x/97/30/73/9730734cdc2a193186e72fa6c1d662c1.jpg",
+		"preview3": "https://i.pinimg.com/474x/df/fb/7c/dffb7c825a57b4cb156d62f4a3026f0a.jpg"
+	},
+	{
+		"name": "BLUE LOCK",
+		"name_kor": "블루 록",
+		"preview1": "https://i.pinimg.com/236x/f7/22/2d/f7222d050256d6e7f7f089b6b4181f73.jpg",
+		"preview2": "https://i.pinimg.com/236x/65/11/04/6511047f2499586c373c8722ecbc2c26.jpg",
+		"preview3": "https://i.pinimg.com/236x/ad/97/88/ad9788bbce752ffa0ed6145eafe3823e.jpg"
+	},
+	{
+		"name": "Fullmetal Alchemist",
+		"name_kor": "강철의 연금술사",
+		"preview1": "https://i.pinimg.com/564x/bb/68/a1/bb68a1e772b73a4ce25974b2d4d6dc5d.jpg",
+		"preview2": "https://i.pinimg.com/564x/28/b3/8c/28b38c9764465d3de8023e0a910081c6.jpg",
+		"preview3": "https://i.pinimg.com/474x/71/68/14/7168147094b7e7ad663c132eba3ec386.jpg"
+	},
+	{
+		"name": "Gintama",
+		"name_kor": "은혼",
+		"preview1": "https://i.pinimg.com/474x/de/9e/52/de9e52183830a1eb06dc5d085e126464.jpg",
+		"preview2": "https://i.pinimg.com/474x/52/e0/d6/52e0d60380465540ba2194ef8e96d24c.jpg",
+		"preview3": "https://i.pinimg.com/474x/a4/6d/f6/a46df6e2dbf5057106938157b3f62d95.jpg"
+	},
+	{
+		"name": "Haikyuu",
+		"name_kor": "하이큐",
+		"preview1": "https://i.pinimg.com/474x/8e/05/de/8e05dec1630eab457885d5765119c90e.jpg",
+		"preview2": "https://i.pinimg.com/474x/fc/93/15/fc931515001ec5e8ce244cdf162d560b.jpg",
+		"preview3": "https://i.pinimg.com/474x/fc/ae/fc/fcaefc66cb481d60db9555e78d3b1117.jpg"
+	},
+	{
+		"name": "Jujutsu Kaisen",
+		"name_kor": "주술회전",
+		"preview1": "https://i.pinimg.com/474x/6a/65/6f/6a656fc8faa6484bb9b4e4d8e9eee619.jpg",
+		"preview2": "https://i.pinimg.com/474x/d9/fa/77/d9fa7739318dd8a0bd735d30401d1d64.jpg",
+		"preview3": "https://i.pinimg.com/474x/e3/dd/80/e3dd804ec123b1a2486eba1edebdda8f.jpg"
+	},
+	{
+		"name": "Mushoku Tensei",
+		"name_kor": "무직전생",
+		"preview1": "https://i.pinimg.com/474x/a4/d5/fd/a4d5fdda8b5a69aa74e59a3b15ff0080.jpg",
+		"preview2": "https://i.pinimg.com/474x/e3/d3/78/e3d3788718a6dac9fab2928c7be9cd59.jpg",
+		"preview3": "https://i.pinimg.com/474x/50/2f/36/502f36130a39f03226401ae4980f0f74.jpg"
+	},
+	{
+		"name": "NARUTO",
+		"name_kor": "나루토",
+		"preview1": "https://i.pinimg.com/474x/08/e7/4a/08e74affe517d07c68595473c701c315.jpg",
+		"preview2": "https://i.pinimg.com/474x/6f/95/c6/6f95c670d4aaa55d0db16913ff6103b2.jpg",
+		"preview3": "https://i.pinimg.com/474x/7c/75/12/7c75124c4e441af89dd748aaea363081.jpg"
+	},
+	{
+		"name": "OSHI NO KO",
+		"name_kor": "최애의 아이",
+		"preview1": "https://i.pinimg.com/474x/b3/70/bd/b370bd08664eee213df74b855ed74a86.jpg",
+		"preview2": "https://i.pinimg.com/474x/31/52/58/315258d36c8ab443730c4c8d851f7817.jpg",
+		"preview3": "https://i.pinimg.com/474x/1e/2c/3a/1e2c3a78f26df82b4c58d119d58b71d3.jpg"
+	},
+	{
+		"name": "Overlord",
+		"name_kor": "오버로드",
+		"preview1": "https://i.pinimg.com/474x/5e/f1/cf/5ef1cf39b2db42d3fc9d050e27034e02.jpg",
+		"preview2": "https://i.pinimg.com/474x/09/67/0c/09670c70046afbd93322d7b746f38b9c.jpg",
+		"preview3": "https://i.pinimg.com/474x/ff/a5/3a/ffa53a32d26cf01fb8af44cca960fec9.jpg"
+	},
+	{
+		"name": "Re:ZERO",
+		"name_kor": "Re:제로",
+		"preview1": "https://i.pinimg.com/474x/97/f9/0f/97f90f2b22dbfeab6c7d7e9d8fcff301.jpg",
+		"preview2": "https://i.pinimg.com/474x/9d/60/64/9d6064b6f22df8f230970e7af2cf4cdd.jpg",
+		"preview3": "https://i.pinimg.com/474x/4f/89/35/4f89357c91def76189cea62d7914e72e.jpg"
+	},
+	{
+		"name": "Sailor Moon",
+		"name_kor": "세일러문",
+		"preview1": "https://i.pinimg.com/474x/2b/59/d1/2b59d1fe5c1f7619a65eb7886b7a0487.jpg",
+		"preview2": "https://i.pinimg.com/474x/36/81/f0/3681f020bddd276d9fb543d9e3a7d78f.jpg",
+		"preview3": "https://i.pinimg.com/474x/32/2a/06/322a065d68e45c29d97c93c8ea1431ef.jpg"
+	},
+	{
+		"name": "Sousou no Frieren",
+		"name_kor": "장송의 프리렌",
+		"preview1": "https://i.pinimg.com/474x/d8/51/7e/d8517e81e93ba53cedae35b54a772943.jpg",
+		"preview2": "https://i.pinimg.com/474x/88/ea/60/88ea6036039ab47453c167f377e2d058.jpg",
+		"preview3": "https://i.pinimg.com/474x/8c/9d/65/8c9d65caef175f6e3a896f5235752805.jpg"
+	},
+	{
+		"name": "Shinchan",
+		"name_kor": "짱구는 못말려",
+		"preview1": "https://i.pinimg.com/474x/5b/aa/b9/5baab98508e2114df2fba74d38c7b993.jpg",
+		"preview2": "https://i.pinimg.com/474x/e5/08/78/e508780862fa9e7be33dcaabddb72c1e.jpg",
+		"preview3": "https://i.pinimg.com/474x/42/0b/16/420b1634581c91b50e1b154cd4aae964.jpg"
+	},
+	{
+		"name": "Cyberpunk: Edgerunners",
+		"name_kor": "사이버펑크: 엣지러너",
+		"preview1": "https://i.pinimg.com/474x/0e/32/9d/0e329d614c92f68d1d4a73182bee51aa.jpg",
+		"preview2": "https://i.pinimg.com/474x/c2/e2/f6/c2e2f6b3de42c8f4f2284cde6269a0ad.jpg",
+		"preview3": "https://i.pinimg.com/474x/62/0f/26/620f2689bc914eda216c6ab388aacd61.jpg"
+	},
+	{
+		"name": "SpongeBob",
+		"name_kor": "스폰지밥",
+		"preview1": "https://i.pinimg.com/474x/0f/e6/ee/0fe6eeaff883a54330ab32c5fc559d9f.jpg",
+		"preview2": "https://i.pinimg.com/474x/01/86/7b/01867b25a8662d689031ee1f436644c1.jpg",
+		"preview3": "https://i.pinimg.com/474x/8a/57/d8/8a57d8f6a3e023a6fa2367fd6e742849.jpg"
+	},
+	{
+		"name": "SPY × FAMILY",
+		"name_kor": "스파이 패밀리",
+		"preview1": "https://i.pinimg.com/474x/63/f8/70/63f8703f4c657e8a3a0e35bd67e03a2b.jpg",
+		"preview2": "https://i.pinimg.com/474x/04/ca/ac/04caac4060a9098ce8639a243e638589.jpg",
+		"preview3": "https://i.pinimg.com/474x/a9/19/e8/a919e880237e8afaf5da5c20df2cc0e8.jpg"
+	},
+	{
+		"name": "STUDIO GHIBLI",
+		"name_kor": "스튜디오 지브리",
+		"preview1": "https://i.pinimg.com/474x/ce/e9/10/cee910288f59be3ea5ae8eb6bfd50d31.jpg",
+		"preview2": "https://i.pinimg.com/474x/1f/56/8c/1f568c2fda88160e594b1f3d22b2712c.jpg",
+		"preview3": "https://i.pinimg.com/474x/8c/4e/4a/8c4e4a533f886ff761ec8953d9ab5060.jpg"
+	},
+	{
+		"name": "Makoto Shinkai",
+		"name_kor": "신카이 마코토",
+		"preview1": "https://i.pinimg.com/474x/8c/1c/81/8c1c817d1bfb4fec5c183d1f7279c7ce.jpg",
+		"preview2": "https://i.pinimg.com/564x/d1/b9/c0/d1b9c0c8940c0ea20e728b7f7e7afb84.jpg",
+		"preview3": "https://i.pinimg.com/474x/d9/10/e2/d910e2fa161957712ffbb81034e29f7e.jpg"
+	},
+	{
+		"name": "Tokyo Revengers",
+		"name_kor": "도쿄 리벤저스",
+		"preview1": "https://i.pinimg.com/474x/95/a0/35/95a035d84efc7b3a97d6edbbd6a6d021.jpg",
+		"preview2": "https://i.pinimg.com/474x/f0/f0/3e/f0f03eb00b778e0397caea0b1724ff0b.jpg",
+		"preview3": "https://i.pinimg.com/474x/34/55/33/345533b4604a931422eb92dff2b4eee2.jpg"
+	},
+	{
+		"name": "Violet Evergarden",
+		"name_kor": "바이올렛 에버가든",
+		"preview1": "https://i.pinimg.com/474x/da/89/07/da890762840a499d52d32105bf2a6b4d.jpg",
+		"preview2": "https://i.pinimg.com/474x/d0/d0/16/d0d016ff437111691f22ddb5af689cfa.jpg",
+		"preview3": "https://i.pinimg.com/474x/aa/77/43/aa77431b268a1bec7090ddb5548becec.jpg"
+	}
+]

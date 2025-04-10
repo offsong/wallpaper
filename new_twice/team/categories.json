@@ -1,0 +1,86 @@
+[
+  {
+    "name": "TWICE",
+    "name_kor": "트와이스",
+    "preview1": "https://i.pinimg.com/474x/51/e7/97/51e7972770e67788387803bd538c8932.jpg",
+    "preview2": "https://i.pinimg.com/474x/fe/c2/75/fec27544cfa77b9ed2857bd79dd89a81.jpg",
+    "preview3": "https://i.pinimg.com/474x/4c/df/18/4cdf18259d419a13f273ad1155036192.jpg"
+  },
+  {
+    "name": "gif",
+    "name_kor": "gif",
+    "preview1": "https://i.pinimg.com/originals/1c/02/58/1c0258efc7cea17d85a472a302c2a9b3.gif",
+    "preview2": "https://i.pinimg.com/originals/b0/1e/14/b01e148c0ed4c32e85f3a57dae1225f0.gif",
+    "preview3": "https://i.pinimg.com/originals/e6/43/29/e6432950a04bd6d3b46afcba56f14c6f.gif"
+  },
+  {
+    "name": "icon",
+    "name_kor": "아이콘",
+    "preview1": "https://i.pinimg.com/474x/5d/1b/ef/5d1befcb1625b6c190f7c52f45857702.jpg",
+    "preview2": "https://i.pinimg.com/474x/45/84/28/45842844b07d78936199effbbd5591a7.jpg",
+    "preview3": "https://i.pinimg.com/564x/dc/a7/89/dca789376e76a27cb895a2531291fa0e.jpg"
+  },
+  {
+    "name": "NAYEON",
+    "name_kor": "나연",
+    "preview1": "https://i.pinimg.com/474x/1f/34/f4/1f34f44d4aaec182b8d351fd18333fa9.jpg",
+    "preview2": "https://i.pinimg.com/474x/2f/b9/ad/2fb9ad548c305ecff5ecc9bf48a03b93.jpg",
+    "preview3": "https://i.pinimg.com/474x/88/ac/f0/88acf0177e948227251e1bae53114fa9.jpg"
+  },
+  {
+    "name": "JEONGYEON",
+    "name_kor": "정연",
+    "preview1": "https://i.pinimg.com/474x/34/48/47/344847634c83150985c116fbd2f397c6.jpg",
+    "preview2": "https://i.pinimg.com/474x/76/ae/d7/76aed724093865d6b8ed59859d132eeb.jpg",
+    "preview3": "https://i.pinimg.com/474x/52/7f/ad/527fad0b5fbdc09c8115eeb7882bcd58.jpg"
+  },
+  {
+    "name": "MOMO",
+    "name_kor": "모모",
+    "preview1": "https://i.pinimg.com/474x/41/43/de/4143deeae10c54bf19e1ef9a209b0ff3.jpg",
+    "preview2": "https://i.pinimg.com/474x/bb/e3/fe/bbe3fe2cbedcf51ad3d8f23a7092e09a.jpg",
+    "preview3": "https://i.pinimg.com/474x/2e/e1/b3/2ee1b325eb642e44071dc711275cfef3.jpg"
+  },
+  {
+    "name": "SANA",
+    "name_kor": "사나",
+    "preview1": "https://i.pinimg.com/474x/f4/61/38/f46138cf9d9fc70852b87d07047631fa.jpg",
+    "preview2": "https://i.pinimg.com/474x/f7/00/ff/f700ff7b08136c9ccc63460c8b8a748c.jpg",
+    "preview3": "https://i.pinimg.com/474x/b4/89/63/b489636caff176a20ff6314cce1f3ec5.jpg"
+  },
+  {
+    "name": "JIHYO",
+    "name_kor": "지효",
+    "preview1": "https://i.pinimg.com/474x/69/58/c3/6958c35201b67ebc187715021febd858.jpg",
+    "preview2": "https://i.pinimg.com/474x/68/76/a4/6876a4a9c7507972ebeaf7a23e374dfe.jpg",
+    "preview3": "https://i.pinimg.com/474x/03/aa/bb/03aabb936e7b2f30d36d81d956d323b6.jpg"
+  },
+  {
+    "name": "MINA",
+    "name_kor": "미나",
+    "preview1": "https://i.pinimg.com/474x/92/dd/7b/92dd7b75dc868d444d66e84053d0380a.jpg",
+    "preview2": "https://i.pinimg.com/474x/f2/83/33/f28333dfccab8794d8b5c943b026b31e.jpg",
+    "preview3": "https://i.pinimg.com/474x/9b/e9/bd/9be9bd63fc33af77bcf7fcdc44aa9129.jpg"
+  },
+  {
+    "name": "DAHYUN",
+    "name_kor": "다현",
+    "preview1": "https://i.pinimg.com/474x/5b/de/5c/5bde5c6302e57f45f4c742a22882d3c5.jpg",
+    "preview2": "https://i.pinimg.com/474x/0b/42/b6/0b42b6da9154ecf86be98cf1cdb97d97.jpg",
+    "preview3": "https://i.pinimg.com/474x/95/40/cd/9540cdd259417b9405bb1991c2646131.jpg"
+  },
+  {
+    "name": "CHAEYOUNG",
+    "name_kor": "채영",
+    "preview1": "https://i.pinimg.com/474x/39/03/55/390355e32db84f473bb46de857f9fd70.jpg",
+    "preview2": "https://i.pinimg.com/474x/44/12/c7/4412c72c25ead0e7ad58532a54c6ad13.jpg",
+    "preview3": "https://i.pinimg.com/474x/cf/4b/0e/cf4b0e4caab4a60f60e6460c99c2d579.jpg"
+  },
+  {
+    "name": "TZUYU",
+    "name_kor": "쯔위",
+    "preview1": "https://i.pinimg.com/474x/6a/86/2e/6a862ebee18672ca04f92fa59d55689b.jpg",
+    "preview2": "https://i.pinimg.com/474x/e4/7b/42/e47b42e88e6cd0ed856fcb1606238d19.jpg",
+    "preview3": "https://i.pinimg.com/474x/df/4e/58/df4e583a1044a0e680253e6db64660f0.jpg"
+  }
+]
