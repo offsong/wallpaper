@@ -1,16 +1,79 @@
 [
 	{
-	    "name": "fromis_9",
-	    "name_kor": "프로미스나인",
-	    "preview1": "https://i.pinimg.com/474x/75/fb/89/75fb89475ca5ff95e69c32c21f437867.jpg",
-	    "preview2": "https://i.pinimg.com/474x/2a/b8/d8/2ab8d83c903165a4d3d577c4413d545e.jpg",
-	    "preview3": "https://i.pinimg.com/474x/87/ba/e1/87bae16b232f2cf446aaed20eebf1209.jpg"
-	  },
+		"name": "fromis_9",
+		"name_kor": "프로미스나인",
+		"preview1": "https://i.pinimg.com/474x/75/fb/89/75fb89475ca5ff95e69c32c21f437867.jpg",
+		"preview2": "https://i.pinimg.com/474x/2a/b8/d8/2ab8d83c903165a4d3d577c4413d545e.jpg",
+		"preview3": "https://i.pinimg.com/474x/87/ba/e1/87bae16b232f2cf446aaed20eebf1209.jpg"
+	},
 	{
 		"name": "icon",
 		"name_kor": "아이콘",
-		"preview1": "https://i.pinimg.com/564x/87/ba/e1/87bae16b232f2cf446aaed20eebf1209.jpg",
-		"preview2": "https://i.pinimg.com/564x/75/fb/89/75fb89475ca5ff95e69c32c21f437867.jpg",
-		"preview3": "https://i.pinimg.com/736x/5c/f2/19/5cf219febfe6fbf24b441ccf0dab6d9b.jpg"
+		"preview1": "https://i.pinimg.com/474x/87/ba/e1/87bae16b232f2cf446aaed20eebf1209.jpg",
+		"preview2": "https://i.pinimg.com/474x/75/fb/89/75fb89475ca5ff95e69c32c21f437867.jpg",
+		"preview3": "https://i.pinimg.com/474x/5c/f2/19/5cf219febfe6fbf24b441ccf0dab6d9b.jpg"
+	},
+	{
+		"name": "HA YOUNG",
+		"name_kor": "송하영",
+		"preview1": "https://i.pinimg.com/474x/ac/b3/b3/acb3b3220a78986daec24c255247625f.jpg",
+		"preview2": "https://i.pinimg.com/474x/d7/64/4c/d7644cc3548f0fce2bbded9539642c95.jpg",
+		"preview3": "https://i.pinimg.com/474x/76/0b/93/760b93b63a7e578bc206d8ff3e9d312d.jpg"
+	},
+	{
+		"name": "JI WON",
+		"name_kor": "박지원",
+		"preview1": "https://i.pinimg.com/474x/6d/93/b0/6d93b0c3af413d75947007dc347aa267.jpg",
+		"preview2": "https://i.pinimg.com/474x/83/44/8c/83448ca3eee2e1a6eadbafac8f13871a.jpg",
+		"preview3": "https://i.pinimg.com/474x/36/8c/7a/368c7ad693b3c0ca0c3c8ad42eedb4ab.jpg"
+	},
+	{
+		"name": "CHAE YOUNG",
+		"name_kor": "이채영",
+		"preview1": "https://i.pinimg.com/474x/5a/31/6a/5a316a34ab9f8594bba37053fca5ed48.jpg",
+		"preview2": "https://i.pinimg.com/474x/1d/c0/88/1dc08891a1679e5dbbb6cfbaecec1d1f.jpg",
+		"preview3": "https://i.pinimg.com/474x/2a/9b/8d/2a9b8db79562090fd227ac579ce67ee7.jpg"
+	},
+	{
+		"name": "NA GYUNG",
+		"name_kor": "이나경",
+		"preview1": "https://i.pinimg.com/474x/ad/1b/7c/ad1b7ce01050af3438b4b360220ee4ec.jpg",
+		"preview2": "https://i.pinimg.com/474x/8b/aa/44/8baa448651485e754ad70b1be1fbb0f4.jpg",
+		"preview3": "https://i.pinimg.com/474x/ef/0a/e6/ef0ae686831960a3ed67e8bff4499f11.jpg"
+	},
+	{
+		"name": "JI HEON",
+		"name_kor": "백지헌",
+		"preview1": "https://i.pinimg.com/474x/50/45/2b/50452bb0f42535facb7a21ab90d2d8ce.jpg",
+		"preview2": "https://i.pinimg.com/474x/57/d8/4d/57d84db1310c09e1c3bb32c453716fc2.jpg",
+		"preview3": "https://i.pinimg.com/474x/96/0e/10/960e106e92f36a988c375cf774beb86e.jpg"
+	},
+	{
+		"name": "GYU RI",
+		"name_kor": "장규리",
+		"preview1": "https://i.pinimg.com/474x/00/f9/df/00f9df17cdf19675cb0a422cab0475fe.jpg",
+		"preview2": "https://i.pinimg.com/474x/37/d2/ea/37d2ea8ed49c26ba7671d62bd5489e40.jpg",
+		"preview3": "https://i.pinimg.com/474x/02/94/9a/02949a9dff05ae7756ab0f3bef8a1b81.jpg"
+	},
+	{
+		"name": "SAE ROM",
+		"name_kor": "이새롬",
+		"preview1": "https://i.pinimg.com/474x/a7/40/51/a74051650958107aa8fc02337e3f545d.jpg",
+		"preview2": "https://i.pinimg.com/474x/0f/17/a3/0f17a3b48f3c0c81a524ccf234843547.jpg",
+		"preview3": "https://i.pinimg.com/474x/46/49/5c/46495c5762ee6e16105ba98824a81b71.jpg"
+	},
+	{
+		"name": "JI SUN",
+		"name_kor": "노지선",
+		"preview1": "https://i.pinimg.com/474x/8c/48/da/8c48dacd4c6da822012c9d5db921edb0.jpg",
+		"preview2": "https://i.pinimg.com/474x/da/f4/0d/daf40d18d3cdc2d152b71ff84c9d5764.jpg",
+		"preview3": "https://i.pinimg.com/474x/bf/e4/32/bfe4328be0ad91e304341ac2baaff992.jpg"
+	},
+	{
+		"name": "SEO YEON",
+		"name_kor": "이서연",
+		"preview1": "https://i.pinimg.com/474x/37/f0/dd/37f0dd5863ad49f35440713aaa2299c4.jpg",
+		"preview2": "https://i.pinimg.com/474x/e3/f3/3f/e3f33f076824b0d852376584582c3af6.jpg",
+		"preview3": "https://i.pinimg.com/474x/f6/0c/17/f60c17af6a55b9bdbf79ebec65e658df.jpg"
 	}
 ]
